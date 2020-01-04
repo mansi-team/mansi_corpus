@@ -1,0 +1,33 @@
+{
+  "corpus_name": "mansi",
+  "corpus_dir": "D://Mansi//Corpus/corpus",
+  "meta_filename": "meta.csv",
+  "error_log": "error.log",
+  "meta_fields":
+  [
+   "filename",
+    "speaker",
+    "linguist",
+    "Place",
+    "Date",
+    "Length",
+    "Movie",
+    "Comment",
+	"Content"
+  ],
+  "meta_files_ext": false,
+  "meta_files_dir": false,
+  "meta_files_case_sensitive": true,
+  "parsed_wordlist_filename": "all_parsed.txt",
+  "parsed_wordlist_format": "txt",
+  "json_indent": -1,
+  "gzip": true,
+  "convert_quotes": true,
+  "left_quot_mark": "«",
+  "right_quot_mark": "»",
+  "sent_end_punc": "(?:[.!?;;]+(?:[)\\]}>/»]|$)|\\\\n)",
+  "sent_start": "^[A-ZÄÖÜА-ЯЁӤӦӴӞӜ0-9]",
+  "newline_ends_sent": true,
+  "abbreviations": [],
+  "media_length": 60
+}
