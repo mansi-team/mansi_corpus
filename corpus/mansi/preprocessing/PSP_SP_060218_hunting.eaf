@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-07-31T12:35:46+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-03-26T10:31:12+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/Desktop/мансийский/mansi work/tanya/мансийские тексты/2 час/PS_oxota.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../мансийские тексты/2 час/PS_oxota.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/PSP_SP_060218_hunting.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./PSP_SP_060218_hunting.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:03716180-a643-4804-9f28-2aea2a9645ad</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">26</PROPERTY>
     </HEADER>
@@ -62,12 +62,12 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Mansi">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>am wōrt jōmiɣtēɣum tōɕos kūt'uwəl n'oxs aliɣlalēɣum ɕopər </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am wōrt jōmijtējm tōɕs kūt'uwl n'oxs alijlalējm ɕopər</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>tēli ōs kērn'al' ūnttalēɣum takwsi n'oxs kojeɣum aliɣlalēɣum</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tēli ōs kērn'al' ūnttalējm takwsi n'oxs kojejm alijlalējm</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -82,12 +82,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
-                <ANNOTATION_VALUE>tōɕos медведь waɕintalēɣum wōrt takem piliɕmaŋ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tōɕs медведь waɕintalējm wōrt takem piliɕmaŋ</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>am xosat tāɣəl wōrajēɣum wōrt jōmiɣtēɣum anumn jomas jōmiɣtaŋkw wōrt </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am xosat tājl wōrajējm wōrt jōmijtējm anumn jomas jōmijtaŋkw wōrt </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -97,7 +97,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts49">
-                <ANNOTATION_VALUE>am saka kāsaɕēɣum wōrt jōmiɣtaŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am saka kāsaɕējum wōrt jōmijtaŋkw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -119,7 +119,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>иногда медведя вижу в лесу, так бояздно становится </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>иногда медведя вижу в лесу, так боязно становится </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -146,7 +146,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>sōrp taj at wāɕint-al-ēɣ-um </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sōrp taj at=wāɕint-al-ēɣ-um </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -178,12 +178,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>лось это NEG встретить-ASP-NPST-1SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>лось это NEG=встретить-ASP-NPST-1SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>иногда медведь встретить-ASP-NPST-1SG лес-LOC тот-APPR страх-PROP</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>иногда медведь встретить-ASP-NPST-1SG лес-LOC тот-APPR страх-PROP1</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

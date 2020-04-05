@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-24T14:50:46+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-02-17T16:01:10+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/AAA_SP_050818_potyr.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./AAA_SP_050818_potyr.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7811648d-2de1-460a-90bb-930c2d24d521</PROPERTY>
@@ -226,17 +226,17 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Mansi">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>jalpəŋ xōtal jalpəŋ xōtal jomɕakw ke xōtal xōtalane jomɕakw ke ōlējit sistamt taj значит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jalpəŋ xōtal jalpəŋ xōtal jomɕakw ke xōtal xōtalane jomɕakw ke ōlējәt sistamt taj значит</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>tuji jomas takwsi pal xōtale os sistam ke tūrap ke </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuji jomas takwsi pal xōtale ōs sistam ke tūrap ke </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
-                <ANNOTATION_VALUE>sistam ke sistam tūrap taj rakwuŋkw pati если sistam ke kit xūrum xōtal ōli taj taj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sistam ke sistam tūrap ke taj rakwuŋkw pati если sistam ke kit xūrum xōtal ōli taj taj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -261,7 +261,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts61">
-                <ANNOTATION_VALUE>sūjpil an’ takwsi atēw wātēw tuwəl ut </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sūjpil an’ takwsi соби atēw wātēw tuwəl ut </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -271,7 +271,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts77">
-                <ANNOTATION_VALUE>jāŋkəlm pil клюква tij ? морошка esli ōli ke morax </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jāŋkəlm pil клюква tij ? морошка если ōli ke morax </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -291,17 +291,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts109">
-                <ANNOTATION_VALUE>mān’ xūrt an’ juw-tējanəl а хариус taj ul āt'i nas matər āt'i tot </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mān’ xūrt an’ juw-tējanl а хариус taj ul āt'i nas matər āt'i tot </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts117">
-                <ANNOTATION_VALUE>корабликəl можно xūl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>корабликəl tәj tәj можно xūl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts125">
-                <ANNOTATION_VALUE>oɕɕa xūl puwew tuw таймень ну wānpəl nas удочкаl taj ōs puwxati </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>oɕɕa xūl puw puwew tuw таймень ну wānpəl nas удочкаl taj taj ōs puwxati ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -316,12 +316,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts149">
-                <ANNOTATION_VALUE>pēs taj utəl puwējt xūlpəl puwējt am āɕum takwi saji</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pēs taj это utəl puwējt xūlpəl puwējt am āɕum takwi saji</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts157">
-                <ANNOTATION_VALUE>ūnt ūnttējt  tuw pōsasawet nēmar at ēri</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ūntti ūnttējt  tuw pōsasawet nēmar at ēri</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -341,7 +341,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts189">
-                <ANNOTATION_VALUE>saji ōs ta puwi taɕir mōtɕir wārawe </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>saji ōs ta puwi taɕir ка та mōtɕir wārawe </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -356,7 +356,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts213">
-                <ANNOTATION_VALUE>nox wos xul’itawe </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nox wos хuli xul’itawe </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -433,7 +433,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts118">
-                <ANNOTATION_VALUE>карабликом можно </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>карабликом (способ ловли рыбы) можно </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -500,7 +500,7 @@
     <TIER ANNOTATOR="Kh" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Morphemes">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>jalpəŋ xōtal jalpəŋ xōtal jomɕakw ke xōtal xōtal-an-e jomɕakw ke ōl-ēɣ-it sistam-t taj значит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jalpəŋ xōtal jomɕakw ke xōtal xōtal-an-e jomɕakw ke ōl-ēɣ-әt sistam-t taj значит</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -510,7 +510,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>sistam ke sistam tūrap taj rakw-uŋkw pat-i если sistam ke kit xūrum xōtal ōl-i taj taj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sistam ke sistam tūrap ke taj rakw-uŋkw pat-i если sistam ke kit xūrum xōtal ōl-i taj taj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -545,7 +545,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts79">
-                <ANNOTATION_VALUE>jāŋkəlma pil клюква это ? морошка ōl-i ke morax </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jāŋkəlma pil клюква это ? морошка если ōl-i ke morax </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -565,12 +565,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts111">
-                <ANNOTATION_VALUE>mān’ xūl-t an’ juw-t-ē-janəl а хариус taj ul āti nas matər āt'i tot </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mān’ xūl-t an’ juw=t-ē-janəl а хариус taj ul āti nas matər āt'i tot </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts119">
-                <ANNOTATION_VALUE>кораблик-әl можно xūl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кораблик-әl tәj tәj можно xūl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -620,7 +620,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts199">
-                <ANNOTATION_VALUE>внизу-то камни āxwtas utawtaxs чтобы jol=wos=ɕalt-s a nūmit nas </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>внизу-то камни āxwtas ut-āwtaxts чтобы jol=wos=ɕalt-s a nūmit nas </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -637,7 +637,7 @@
     <TIER ANNOTATOR="Kh" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Glosses">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>святой день святой день хорошо COND день день-PL-POSS.3SG хорошо COND быть-NPST-3PL чистый-PL это значит</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>святой день хорошо COND день день-PL-POSS.3SG хорошо COND быть-NPST-3PL чистый-PL это значит</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -647,7 +647,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>чистый COND чистый туча это дождить-INF начаться-NPST[3SG] если чистый COND два три день быть-NPST[3SG] это это</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>чистый COND чистый туча COND это дождить-INF начаться-NPST[3SG] если чистый COND два три день быть-NPST[3SG] это это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -672,7 +672,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts64">
-                <ANNOTATION_VALUE>брусника сейчас очень собрать-NPST-1PL собрать.ягоды-NPST-1PL потом вещь</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>брусника сейчас осень собрать-NPST-1PL собрать.ягоды-NPST-1PL потом вещь</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -682,7 +682,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts80">
-                <ANNOTATION_VALUE>болото ягода клюква это ? морошка быть-NPST[3SG] COND морошка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>болото ягода клюква это ? морошка если быть-NPST[3SG] COND морошка</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -692,7 +692,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE>печь-?-LAT сидеть-CAUS-ASP-1PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>печь-?-LAT сидеть-TR-ASP-1PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -702,12 +702,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts112">
-                <ANNOTATION_VALUE>маленький рыба-PL сейчас внутрь=есть-NPST-SG/PL.O.3PL.S а хариус это наверно NEG.PRED просто что.что NEG.PRED там</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>маленький рыба-PL сейчас внутрь=есть-NPST-SG/PL.O.3PL.S а хариус это наверно NEG.PRED просто что.то NEG.PRED там</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts120">
-                <ANNOTATION_VALUE>кораблик-INS можно рыба</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кораблик-INS это это можно рыба</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -732,7 +732,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts160">
-                <ANNOTATION_VALUE>сесть-CAUS-NPST-3PL туда гнать-ASP-PASS-3PL NEG.PRON-что.то NEG=надо-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сесть-TR-NPST-3PL туда гнать-ASP-PASS-3PL NEG.PRON-что.то NEG=надо-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -757,12 +757,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts200">
-                <ANNOTATION_VALUE>внизу-то камни камень ? чтобы вниз=OPT=войти-PST[3SG] а ? просто</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>внизу-то камни камень вещь-камень? чтобы вниз=OPT=войти-PST[3SG] а ? просто</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts208">
-                <ANNOTATION_VALUE>береста-INS делать-PASS.NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>береста-INS делать-PASS[NPST.3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

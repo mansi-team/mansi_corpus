@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-24T14:40:50+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-02-17T13:17:42+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/AAA_DZh_SP_120717_potop.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./AAA_DZh_SP_120717_potop.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e5dff30-620b-46da-bbea-a97215c204f9</PROPERTY>
@@ -110,32 +110,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts37">
-                <ANNOTATION_VALUE>это wōte tuwəl tān taj ɕōpitaxtējt xot'jut</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это wōte tuwl tān taj ɕōpitaxtējt xot'jut</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
-                <ANNOTATION_VALUE>liliŋ tājəl ōluŋk taŋxi әs matər por wārējt man matər wārējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>liliŋ tājəl ōluŋk taŋxi о̄s matər por wārējt man matər wārējt matәr это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts53">
-                <ANNOTATION_VALUE>tuwəl ōs taɕir ta xotum mansirman liliŋ tājəl arijtējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl ōs и taɕir ta xotum mansirman liliŋ tājəl arijtējt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts61">
-                <ANNOTATION_VALUE>nēmxo nēmxot at ar ну liliŋ ūjxult ōs porsējt ɕar pussən ɕar</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nēmxo nēmxot at ar ну liliŋ ūjxult ōs porsējt ɕа ɕar pussən ɕar</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts69">
-                <ANNOTATION_VALUE>porsēɣt tān ōs matsomt ēlmxōlas moɕ arijtas ōs tuwəl ta ēlmxōlas </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это porsēɣt tān ōs matsomt ēlmxōlas moɕ arijtas ōs tuwəl ta ēlmxōlas </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts77">
-                <ANNOTATION_VALUE>ō ōl ta ō ōləs man manaras</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ō ōl ta ō ōləs man manaras hehe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -266,7 +266,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>ветер-POSS.3SG потом 3PL тот чистить-REFL-NPST-3PL кто</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ветер-POSS.3SG потом 3PL это чистить-REFL-NPST-3PL кто</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

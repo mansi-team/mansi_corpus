@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-25T16:48:06+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-03-26T11:18:46+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/ASN_SP_060218_razgovor2.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ASN_SP_060218_razgovor2.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c5d7a641-d3a4-4306-a7a7-dff37ce3458e</PROPERTY>
@@ -143,7 +143,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>sāw potər ēmti manɕi lātəŋ akw akw akw lātəl это</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sāw potər jēmti manɕi lātəŋ akw akw akw lātəl это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -153,7 +153,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>akw lātəl tō ēlmxōlast at torjamtijanəl поэтому lowintējin matsāwit potər ta ēmti ēlal’ n’ōtiln </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>akw lātəl tō ēlmxōlast at torjamtijanəl поэтому lowintējin matsāwit potər ta jēmti ēlal’ n’ōtiln </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -193,7 +193,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts93">
-                <ANNOTATION_VALUE>a tō ēlmxōlast xujējit ɕar nēmataranəl āti aman at purawet il’i at sujti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a tō ēlmxōlast xujējit ɕar nēmataranəl āti aman at purawet или at sujti</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

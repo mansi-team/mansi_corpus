@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-02T10:54:51+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-02-17T13:23:11+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/AAA_DZh_SP_120717_reindeers.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./AAA_DZh_SP_120717_reindeers.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e5dff30-620b-46da-bbea-a97215c204f9</PROPERTY>
@@ -299,7 +299,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>гнать-NPST-PL.O-1PL.S потом олень-PL врозь=делить-NPST-PL.O-1PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>гнать-NPST-PL.O-1PL.S потом олень-PL врозь=делить-NPST-PL.O-1PL.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -319,7 +319,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts88">
-                <ANNOTATION_VALUE>зимой 3PL-EMPH иметь-NPST-SG/PL.O.3PL.S а летом тот гора-LOC иметь-PASS.NPST-3PL олень-PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>зимой 3PL-EMPH иметь-NPST-SG/PL.O.3PL.S а летом это гора-LOC иметь-PASS.NPST-3PL олень-PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
