@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-24T15:36:17+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-03-21T21:17:38+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/ASN_DZh_SP_030218_misne.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ASN_DZh_SP_030218_misne.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e5dff30-620b-46da-bbea-a97215c204f9</PROPERTY>
@@ -607,27 +607,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>баба Шура akwaɣ potərtali misne mōlti os lāwəltawes</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>баба Шура akwaj potərta potərtali misne mōlti os lāwəltawes</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
-                <ANNOTATION_VALUE>xotjut misne ke toti akw lāɣle sōrp lāɣəl akw lāɣle ēlmxōlas lāɣəl </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xotjut misne ke toti akw lājle so so sōrp lājəl akw lājle ēlmxōlas lājəl' </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>misnēn wōrn... wōrn totawe, ну ta ēlmxōlas saka это ɕoləŋ... ɕoləŋəɣ jēmti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>misnēn wōrn wōrn totawe, ну ta ēlmxōlas saka это ɕoləŋ ɕoləŋəj jēmti</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts37">
-                <ANNOTATION_VALUE>matər-āti pussəntal вот akwaɣ ta ali ta ali jomɕakw вот ɕoləŋəɣ jēmti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>matər-ā matər-āti pussəntal вот akwaj ta ali ta ali jomɕakw вот этот ɕoləŋəj jēmti</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
-                <ANNOTATION_VALUE>taj os taj takwi iltəɣ xot xot tēlapi akw man'ɕi lāwi xāpəl tit āt'i tot lōŋxal'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taj os taj takwi ilti xot xot tēlapi akw man'ɕi lāwi xāpəl tit āt'i tot lōŋxal'</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -647,22 +647,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts77">
-                <ANNOTATION_VALUE>xāpn tāluŋkw patəs akw late akw kāte lāɣle sōrp lāɣəl akw lāɣle ēlmxōlas lāɣəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xāpn tāluŋkw pats akw late akw akw kāte lājl'e sōrp lājəl akw lājle ēlmxōlas lājəl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts85">
-                <ANNOTATION_VALUE>ta janit wāɣəl ta roxtum soma takwi xāpəl xol't jolal' raɣatam mol’ax takem xottal’ sisi ta ojam</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta janit wājəl ta roxtum soma takwi xāpəl xol't jolal' rajatam mol’ax takem xottal’ sisi ta ojam</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts93">
-                <ANNOTATION_VALUE>a manriɣ at totaste misne, saka mūtraŋ, ta ēlmxōlas sōrumn ta patum, manriɣ at totaste</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a manrij at tot a manrij at totaste misne, saka mūtraŋ, ta ēlmxōlas sōrumn ta patum, manrij at totaste</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts101">
-                <ANNOTATION_VALUE>ta jujipalt, a totaste ke saka ɕoləŋəɣ jēmtnuw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta jujipalt, a totaste ke saka ɕoləŋəj jēmtnuw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -672,42 +672,42 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts117">
-                <ANNOTATION_VALUE> a sōl’ mōlti os manɕit akwaj potərtalējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> a sōl’ mōlti os me manɕit manɕit akwaj potərtalējt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts125">
-                <ANNOTATION_VALUE>а, wōrt ti jōməɣteɣən если</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а, wōrt ti jōməjtejən если</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts133">
-                <ANNOTATION_VALUE>xōt n'oxs aleɣn akw xōtal a sātit n'oxs lāwēɣt taj ta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xōt n'oxs hwalejn ak akw xōtal a sātit n'oxs lete</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts141">
-                <ANNOTATION_VALUE>kūt'uwəl xuml'e wōrt jōmēɣt nēɣli l'ōŋxe saka mān' a takwi ōs mān'riɕ lāwi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kūt'uwəl xuml'e wōrt jōmējt nējli l'ōŋxe saka mān' a takwi ōs mān'riɕ lāwi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts149">
-                <ANNOTATION_VALUE>taji ke alēɣən laj īti ītipalaɣ ēri это xot xot wōrt āraɕ paltuŋkw </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>teji ke alējən laj īti ītipalaj ēri это xot xot wōrt āraɕ paltuŋkw </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts157">
-                <ANNOTATION_VALUE>tuwəl jol-pōjt jol-pōjtuŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ee tuwl jol-pōjt jol-pōjtuŋkw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts165">
-                <ANNOTATION_VALUE>n'ājt ēlmxōlas takwite jol-nēɣsalamte jīwna kāte lūtētəl īti akwmatert ta joxtime</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a n'ājt ēlmxōls takwite jol-nēɣsalamte jīwna kāte lūtētəl īti akwmatert ta joxtime</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts173">
-                <ANNOTATION_VALUE>это ещё āraɕ mōt pal mus ōs tālkan taɕir nālkum </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это ещё āraɕ mōt pal mus ōs tālkan taɕir nālkum nālkum </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -717,32 +717,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts189">
-                <ANNOTATION_VALUE>tajin kitiɣlawe ta kitapamte am kūt'uwum xotal' totaslən</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tajin kitele ta kitapamte am kūt'uwum xotal' totaslən</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts197">
-                <ANNOTATION_VALUE>taj sātit n'oxs taj ? kūt'we ta taj mis taj misxum</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taj sātit n'oxs taj herɕ kūt'we ta taj mis taj misxum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts205">
-                <ANNOTATION_VALUE>misne taj ōs taj ēkwa a misxum taj ta вот kūt'we kūt'we ta mān'riɕ  mān' taml'e n'oxs</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>misne taj ōs taj ēkwa a misxum taj ta вот это kūt' kūt'we ta mān'riɕ  mān' tame n'oxs</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts213">
-                <ANNOTATION_VALUE>mis māxum tān lāwēɣt akw xōtal xōt sāt n'oxs alēɣt </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mis māxum tān lāwējt akw xōtal xōt s sāt n'oxs alēɣt </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts221">
-                <ANNOTATION_VALUE>a sātit n'oxs ke alēɣt taj xōt īti jōmēɣn jujipalt naŋki ta joxtawen </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a sātit n'oxs ke alējt taj xōt īti jōmējn jujipalt naŋki ta joxtawen </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts229">
-                <ANNOTATION_VALUE>ōs ta вот ta ōjka n'ājt wāɣte</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ōs ta вот ta ōjka n'ājt wājte a</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -752,32 +752,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts245">
-                <ANNOTATION_VALUE>a sowe ti n'ara n'ara pattan tuw pattan takwi majumtamte majumte</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a sowe ti n'a n'ara pattan tuw pattan takwi majumtamt majumte</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts253">
-                <ANNOTATION_VALUE>a n'oxse xūrum lomtiɣ sāɣrapamte</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a n'oxse xūrum lomtij sājrapamte</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts261">
-                <ANNOTATION_VALUE>xūrum lomtiɣ a n'oxse wōwuŋkw patum ret ? kitimet это akwaɣ ta kitəlime xōman </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xūrum lomtiɣ a n'oxse wōwuŋkw patum rettal' kitimet это akwaɣ ta kitəlime xōman </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts265" TIME_SLOT_REF2="ts269">
-                <ANNOTATION_VALUE>āraɕ ūltta это-то xartawe kos juw an' tājapaŋkw a takwite jol-nēɣumte taj jol то это</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>āraɕ ūltta это-то xartawe kos juw an' tājapaŋkw a takwite jol-nēɣumte taj то это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts273" TIME_SLOT_REF2="ts277">
-                <ANNOTATION_VALUE>pal'aɣe xosaɣ ta xartimeɣ akwaɣ akwaɣ ta ēt palit xartime xartime</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pal'aje xosaj ta xartimej akwaj akwaj ta ēt palit xarti xartime</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts285">
-                <ANNOTATION_VALUE>tuwəl ālpəl akwmartet postəjlaŋkw patum tan an’ jomitējt kos piltaxtnutət īti jomējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl ālpəl akwmartet postəjlaŋkw patum tan an’ jomitējt kos pilt piltaxtnutət īti jomējt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -787,12 +787,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts297" TIME_SLOT_REF2="ts301">
-                <ANNOTATION_VALUE>jotəl tox ta postəjlaŋkw patum mā māxar xum postəjlaŋkw patum</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a jotl tox ta postəjlaŋkw patum mā māx māxar xum postəjlaŋkw patum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts305" TIME_SLOT_REF2="ts309">
-                <ANNOTATION_VALUE>a eto misxumna sārtn puŋkəŋ ōwle n’oxse taktumte tā wuēln laj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a это misxumna sārtn puŋkəŋ ōwle n’oxse taktumte tā wuēln laj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -802,12 +802,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts321" TIME_SLOT_REF2="ts325">
-                <ANNOTATION_VALUE>sūpnēlmtāl ēri wārxatuŋkw ɕar suje takwi nēmatər at wāri</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sūpnēlmtāl ēri wārxatuŋkw ɕār это suj suje takwi nēmatər at это at wāri</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts329" TIME_SLOT_REF2="ts333">
-                <ANNOTATION_VALUE>xartime xartime takos xartawe laj puŋksowt an’ os puwintawe kos xōt āraɕ ult xartawe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xartime xartime kos kos kos takos это xartawe laj puŋksowt an’ os puwintawe kos xōt ār āraɕ āraɕ ult xart xartawe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -817,22 +817,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts345" TIME_SLOT_REF2="ts349">
-                <ANNOTATION_VALUE>tot taj jānəj tamle mōlti os āraɕ wātat xujilalejum</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tot taj jānəj tamle mōlti os xujint āraɕ wātat xujilalejum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts353" TIME_SLOT_REF2="ts357">
-                <ANNOTATION_VALUE>kit pūmnaj pinējn akwtarm akwate jolət akwate nūmən</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kit pūmnaj pinējn akwt akwtarm akwate jolət akwate nūmən</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts361" TIME_SLOT_REF2="ts365">
-                <ANNOTATION_VALUE>tuwəl moɕ tōsam ōsəŋ jīwətəl nas wos kōsi mōɕnuw təɕir ta kāsajil man sājrapəl sājraɕliln</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw moɕ это tō tōsam ōsəŋ jīwətəl nas wos kōsi mōɕnuw təɕir ta kāsajil man sājrapəl sājraɕliln</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts369" TIME_SLOT_REF2="ts373">
-                <ANNOTATION_VALUE>nas lūmɕi ūl’a nox at pēlaji a akw pāle n’ar jīwəl pin’iln a rēje naŋ paltəln naŋ l’āl’tn  juw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nas lūmɕi ūl’a nox nox at pēlaji a akw pāle n’ar jīwəl pin’iln a rēje naŋ paltəln naŋ l’āl’tn juw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -842,12 +842,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts385" TIME_SLOT_REF2="ts389">
-                <ANNOTATION_VALUE>āraɕe os ūl’ate xarəjlas ke os ta misxumna juw tajapanuwe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>āraɕe os ūl’ate xarə xarəjlas ke os ta это misсumna juw taja tajapanuwe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts393" TIME_SLOT_REF2="ts397">
-                <ANNOTATION_VALUE>tuwəl lējiŋ oxsate os taw misxumn taktumte os pūŋke xosjite at ēri</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl lējiŋ oxsate os taw это taw misxumn taktumte os pūŋke xosjite at ēri</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -857,47 +857,47 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts409" TIME_SLOT_REF2="ts413">
-                <ANNOTATION_VALUE>os ālpəl ta misxumite ta minam</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>os ālpəl ta ālpəl ta misxumite ta minam</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts417" TIME_SLOT_REF2="ts421">
-                <ANNOTATION_VALUE>os ta ōjka a ta kot’il’ oxsa n’oxs oxsa juw totamte ta jujpalt os xōsa ōlum</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>os ta ōjka a ta kot’il’ ōs ta oxsa n’oxs oxsa juw juw totamte ta jujpalt os xōsa ōlum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts425" TIME_SLOT_REF2="ts429">
-                <ANNOTATION_VALUE>tuwəl jomɕakw laj matrati akwaj laj eto</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl jomɕakw laj matrati akwaj laj это al это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts433" TIME_SLOT_REF2="ts437">
-                <ANNOTATION_VALUE>alam osiwatalt tuwəl maj wōrajaŋkw jomɕakw </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>alam osiwatalt tuw maj wōrajaŋkw wōrajaŋkw wōrajaŋkw это jomɕakw </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts441" TIME_SLOT_REF2="ts445">
-                <ANNOTATION_VALUE>tuwəl ate ɕoləŋəj pati ate nūsaj pati kot’il oxsate xun’ wəjte</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl ate ɕoləŋəj pati ate nūsaj nūsaj pati kot’il oxsate xun’ xun’ wəjte</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts449" TIME_SLOT_REF2="ts453">
-                <ANNOTATION_VALUE>pūŋkəŋ ōwle ke wiste saka sāw aluŋkw patnuw nu mol’ax xot ɕole xot-ojmatnuw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pūŋkəŋ ōwle ke wiste saka sāw aluŋkw patnuw nu mol’ax xot отэ ɕole xot-ojmatnuw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts457" TIME_SLOT_REF2="ts461">
-                <ANNOTATION_VALUE>a lējiŋ oxsate ke wiste uɕpəl wun’ɕaləj takwi minnuw ɕar nēmatər aluŋkw at wērmənu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a lējiŋ oxsate ke а это wiste uɕpəl wun’ɕaləj takwi minnuw ɕar nēmatər aluŋkw aluŋkw at wērmənu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts465" TIME_SLOT_REF2="ts469">
-                <ANNOTATION_VALUE>a kot'il' oxsate wiste jomɕakw ōli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a kot'il' oxsate wiste jom jomɕakw ōli</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts473" TIME_SLOT_REF2="ts477">
-                <ANNOTATION_VALUE>n’ājt ēlmxōlast taj wājanəl eto ēlal’ xoməs wārmal’e ōli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>n’ājt ēlmxōlast taj wāja это wāj wājanəl ēlal’ xoməs wārmal’e ōli</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -907,47 +907,47 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts489" TIME_SLOT_REF2="ts493">
-                <ANNOTATION_VALUE>ti kēraskolŋja pāwəlt maj mīša taw tot ti ōli taw āɕe mōlti potərti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ti kēraskolŋja pāwəlt maj миша maj taw tot ti ōli taw āɕe mōlti potərti</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts497" TIME_SLOT_REF2="ts501">
-                <ANNOTATION_VALUE>os sāw n'oxs alam olkēte alas aləlali </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a os sāw n'oxs alam olkēte alas aləjlali </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts505" TIME_SLOT_REF2="ts509">
-                <ANNOTATION_VALUE>xōt n’oxs laj alam akw xōtal sātit n’oxs akwmartēt os ta l’oŋxe nējlapas laj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xōt n’oxs laj alam akw xōtal sātit n’oxs akwmartēt laj os ta l’oŋxe nējlapas laj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts513" TIME_SLOT_REF2="ts517">
-                <ANNOTATION_VALUE>taw wosəj jujpal (=jujil) at minamte juw xot pāwle ōli kole </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taw wosəj jujpal jujil at minamte juw juw это это xot pāwle ōli kole </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts521" TIME_SLOT_REF2="ts525">
-                <ANNOTATION_VALUE>juwle mol’amtaxtim ta ojam nomsi xot tax joxtawe wosəj at nowxatam</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>juw juwle mol’amtaxtim ta oj he ta ojam nomsi xot tax joxtawe wosəj at nowxatam</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts529" TIME_SLOT_REF2="ts533">
-                <ANNOTATION_VALUE>sōl’ taj nējlalam laj n’oxs l’oŋxane mān’riɕit</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sōl’ taj nējlalam laj n’oxs l’oŋxane mān’riɕt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts537" TIME_SLOT_REF2="ts541">
-                <ANNOTATION_VALUE>os jujpal xot joxtənuwe miša tot maj ta ōli taw āɕe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>os jujpal xot joxtənuwe это миша это tot maj ta taw āɕe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts545" TIME_SLOT_REF2="ts549">
-                <ANNOTATION_VALUE>mōlti janəj pēs ēlmxōlas sāw ōləs taj tō potərtalējt man’ɕi saka sāw ōləs</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mōlti konti janəj pēs pēs это ēlmxōlas sāw ōləs taj tō potərtalējt man’ɕi man’ɕi saka sāw ōləs</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts553" TIME_SLOT_REF2="ts557">
-                <ANNOTATION_VALUE>tō xot'ut iltəj xottal’ minnēnəl takos kisnēnəl ātim</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tō xot'ut iltəj xottal’ minnēnəl это takos kisnēnəl ātim</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -957,7 +957,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts569" TIME_SLOT_REF2="ts573">
-                <ANNOTATION_VALUE>os īti maj tōɕos tō xōtalət saka maj tākɕ maj ti wōti ta wōti a wōrajejn xun’ ti sōrp aluŋkw ēri wōt ūrejn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>os īti maj tōɕs tō xōtalət saka maj tākɕ maj ti wōti ta wōti a wōrajejn xun’ ti sōrp aluŋkw ēri wōt ūrejn</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -967,7 +967,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts585" TIME_SLOT_REF2="ts589">
-                <ANNOTATION_VALUE>wōraejit mōlti os man’ɕit taɕir lāwejt </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>wōra wōrajejt mōlti os man’ɕit taɕir lāwejt </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -1351,7 +1351,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>баба Шура akwaɣ potərt-al-i misne mōlti os lāw-əlt-awe-s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>баба Шура akwaɣ potərt-al-i misne mōlti ōs lāw-əlt-awe-s</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1361,22 +1361,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
-                <ANNOTATION_VALUE>misnē-n wōr-n... wōr-n tot-awe, ну ta ēlmxōlas saka это ɕoləŋ... ɕoləŋ-əɣ jēmt-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>misnē-n wōr-n tot-awe, ну ta ēlmxōlas saka это ɕoləŋ-əɣ jēmt-i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>matər-āti pussən-tal вот akwaɣ ta al-i ta al-i jomɕakw вот ɕoləŋ-əɣ jēmt-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>matər-āti pussən-tal вот akwaɣ ta=al-i jomɕakw вот ɕoləŋ-əɣ jēmt-i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE>taj os taj takwi iltəɣ xot xot tēlap-i akw man'ɕi lāw-i xāp-əl tit āt'i tot lōŋxal'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taj os taj takwi iltəɣ xot=tēlap-i akw man'ɕi lāw-i xāp-əl tit āt'i tot lōŋx-al'</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>это lūjik, lūjik-t это mā-t nupəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это lūjik-t это mā-t nupəl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1386,7 +1386,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts71">
-                <ANNOTATION_VALUE>akwmatērt ta potərt-aŋkw pat-s lāw-i anum-n jol-tal-t-ē-l-n jot tot-ē-l-n</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>akwmatērt ta=potərt-aŋkw pat-s lāw-i anum-n jol=tal-t-ē-l-n jot tot-ē-l-n</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1396,22 +1396,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts87">
-                <ANNOTATION_VALUE>ta janit wāɣ-əl ta=roxt-um soma takwi xāp-əl xol't jol-al' raɣat-am mol’ax takem xottal’ sisi ta=oj-am</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta janit wāɣ-əl ta=roxt-um soma takwi xāp-əl xol't jol-al' raɣat-am mol’ax ta-kem xott-al’ sisi ta=oj-am</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts95">
-                <ANNOTATION_VALUE>a manriɣ at tot-as-t-e misne, saka mūtraŋ, ta ēlmxōlas sōrum-n ta pat-um, manriɣ at tot-as-t-e</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a manriɣ at=tot-as-t-e misne saka mūtraŋ ta ēlmxōlas sōrum-n ta=pat-um manriɣ at=tot-as-t-e</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts103">
-                <ANNOTATION_VALUE>ta juj-i-pal-t, a tot-as-t-e ke saka ɕoləŋ-əɣ jēmt-nuw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta juj-i-pal-t a tot-as-t-e ke saka ɕoləŋ-əɣ jēmt-nuw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts111">
-                <ANNOTATION_VALUE>i misne, sol' misne? misne āti, os ti tō akwmat</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>i misne sol' misne misne āti os ti tō akw-mat</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1421,7 +1421,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts127">
-                <ANNOTATION_VALUE>а, wōr-t ti jōm-əɣt-eɣ-ən если</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а wōr-t ti=jōm-əɣt-eɣ-ən если</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1436,17 +1436,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts151">
-                <ANNOTATION_VALUE>taji ke al-ēɣ-ən laj īti īti-pala-ɣ ēr-i это xot xot wōr-t āraɕ palt-uŋkw </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taji ke al-ēɣ-ən laj īti-pala-ɣ ēr-i это xot wōr-t āraɕ palt-uŋkw </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts159">
-                <ANNOTATION_VALUE>tuwəl jol-pōjt jol-pōjt-uŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl jol=pōjt-uŋkw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts167">
-                <ANNOTATION_VALUE>n'ājt ēlmxōlas takwi-te jol-nēɣ-sal-am-t-e jīw-na kāt-e lūt-ē-təl īti akw-mat-er-t ta joxt-ime</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>n'ājt ēlmxōlas takwi-te jol=nēɣ-sal-am-t-e jīw-na kāt-e lūt-ē-təl īti akw-mat-er-t ta=joxt-ime</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1461,7 +1461,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts191">
-                <ANNOTATION_VALUE>taji-n kitiɣl-awe ta kitap-am-t-e am kūt'uw-um xotal' tot-as-l-ən</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taji-n kitiɣl-awe ta=kitap-am-t-e am kūt'uw-um xotal' tot-as-l-ən</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1481,7 +1481,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts223">
-                <ANNOTATION_VALUE>a sāt-it n'oxs ke al-ēɣ-t taj xōt īti jōm-ēɣ-n juj-i-pal-t naŋ-ki ta joxt-awe-n </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a sāt-it n'oxs ke al-ēɣ-t taj xōt īti jōm-ēɣ-n juj-i-pal-t naŋ-ki ta=joxt-awe-n </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1491,7 +1491,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts239">
-                <ANNOTATION_VALUE>пока āraɕ pālt-um n'oxs xot-nuj-umt-am-t-e xot-nuj-umt-am-t-e</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>пока āraɕ pālt-um n'oxs xot=nuj-umt-am-t-e xot=nuj-umt-am-t-e</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1506,7 +1506,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts263">
-                <ANNOTATION_VALUE>xūrum lomt-iɣ a n'oxs-e wōw-uŋkw pat-um ret ? kit-im-e-t это akwaɣ ta kit-əl-ime xōman </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xūrum lomt-iɣ a n'oxs-e wōw-uŋkw pat-um ret-tāl kit-im-e-t это akwaɣ ta kit-əl-ime xōman </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1526,22 +1526,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts295">
-                <ANNOTATION_VALUE>a pōs-t-iɣl-i xottal' min-iɣl-ēɣ-ət a xart-ime xart-ime </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a pōs-t-iɣl-i xott-al' min-iɣl-ēɣ-ət a xart-ime xart-ime </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts299" TIME_SLOT_REF2="ts303">
-                <ANNOTATION_VALUE>jotəl tox ta pōs-t-iɣl-aŋkw pat-um mā mā xar xum pōs-t-iɣl-aŋkw pat-um</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jotəl tox ta=pōs-t-iɣl-aŋkw pat-um mā mā xar xum pōs-t-iɣl-aŋkw pat-um</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a225" TIME_SLOT_REF1="ts307" TIME_SLOT_REF2="ts311">
-                <ANNOTATION_VALUE>а это mis-xum-na sārt-n puŋk-əŋ ōwl-e n'oxs-e takt-um-t-e ta wuj-ē-l-n laj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а это mis-xum-na sārt-n puŋk-əŋ ōwl-e n'oxs-e takt-um-t-e ta=wuj-ē-l-n laj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts315" TIME_SLOT_REF2="ts319">
-                <ANNOTATION_VALUE>taw a puŋk-e xosɣ-i-t-e a l'ajal-aŋkw os at rōw-i l'ajal-ēɣ-ən ke ta kons-iɣt-awe-n</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taw a puŋk-e xosɣ-i-t-e a l'ajal-aŋkw os at=rōw-i l'ajal-ēɣ-ən=ke ta=kons-iɣt-awe-n</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1576,12 +1576,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a241" TIME_SLOT_REF1="ts371" TIME_SLOT_REF2="ts375">
-                <ANNOTATION_VALUE>nas lūmɕ-i ūl'a nox at pēl-aj-i a akw pāl-e n'ar jīw-əl pin-i-l-n a rēɣ-e naŋ palt-ən naŋ l'āl't-n ju-w</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nas lūmɕ-i ūl'a nox=at=pēl-aj-i a akw pāl-e n'ar jīw-əl pin-i-l-n a rēɣ-e naŋ palt-ən naŋ l'āl't-n ju-w</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a245" TIME_SLOT_REF1="ts379" TIME_SLOT_REF2="ts383">
-                <ANNOTATION_VALUE>ta-ɕir nas xuj-ēɣ-ən ate nox-kōs-aml-awe-n это saka xosa āraɕ ta-ɕir tē-ɣ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta-ɕir nas xuj-ēɣ-ən ate nox=kōs-aml-awe-n это saka xosa āraɕ ta-ɕir tē-ɣ</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1591,22 +1591,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a249" TIME_SLOT_REF1="ts395" TIME_SLOT_REF2="ts399">
-                <ANNOTATION_VALUE>tuwəl lēɣ-əŋ oxsa-te os taw mis-xum-n takt-um-t-e os puŋk-e xosɣ-i-t-e at ēr-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl lēɣ-əŋ oxsa-te os taw mis-xum-n takt-um-t-e os puŋk-e xosɣ-i-t-e at=ēr-i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a250" TIME_SLOT_REF1="ts403" TIME_SLOT_REF2="ts407">
-                <ANNOTATION_VALUE>kot'il' oxsa-te mij-um-t-e uɕ ta ālmaj-am-t-e </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kot'il' oxsa-te mij-um-t-e uɕ-ta ālmaj-am-t-e </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a251" TIME_SLOT_REF1="ts411" TIME_SLOT_REF2="ts415">
-                <ANNOTATION_VALUE>os ālpəl ta mis-xum-ite ta min-am</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>os ālpəl ta mis-xum-ite ta=min-am</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a252" TIME_SLOT_REF1="ts419" TIME_SLOT_REF2="ts423">
-                <ANNOTATION_VALUE>os ta ōjka a ta kot'il' oxsa n'oxs oxsa juw tot-am-t-e ta juj-i-pāl-t os xosa ōl-um</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>os ta ōjka a ta kot'il' oxsa n'oxs oxsa juw=tot-am-t-e ta juj-i-pāl-t os xosa ōl-um</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1621,7 +1621,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts443" TIME_SLOT_REF2="ts447">
-                <ANNOTATION_VALUE>tuwəl ate ɕoləŋ-iɣ pat-i ate nūsa-ɣ pat-i kot'il' oxsa-te xun' wi-ɣ-t-e</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl ate ɕoləŋ-iɣ pat-i ate nūsa-ɣ pat-i kot'il' oxsa-te xun'=wi-ɣ-t-e</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1651,7 +1651,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a261" TIME_SLOT_REF1="ts491" TIME_SLOT_REF2="ts495">
-                <ANNOTATION_VALUE>ti kēras-kol-əŋ jā pāwəl-t maj mīša taw tot ti ōl-i taw āɕ-e mōlti potər-t-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ti kēras-kol-əŋ jā pāwəl-t maj mīša taw tot ti=ōl-i taw āɕ-e mōlti potər-t-i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1666,7 +1666,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a279" TIME_SLOT_REF1="ts515" TIME_SLOT_REF2="ts519">
-                <ANNOTATION_VALUE>taw wossiɣ juj-əl at min-am-t-e juw xōt pāwl-e ōl-i kol-e </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taw wossiɣ juj-əl at=min-am-t-e juw xōt pāwl-e ōl-i kol-e </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1681,7 +1681,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts539" TIME_SLOT_REF2="ts543">
-                <ANNOTATION_VALUE>os juj-i-pal xōt joxt-ənuwe miša tot maj ta ōl-i taw āɕ-e</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>os juj-i-pal xōt joxt-ənuwe miša tot maj ta=ōl-i taw āɕ-e</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1691,12 +1691,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts555" TIME_SLOT_REF2="ts559">
-                <ANNOTATION_VALUE>tō xot'ut ilttiɣ xottal' min-nē-nəl ta-kos kis-nē-nəl āt'im</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tō xot'ut ilttiɣ xottal' min-nē-nəl ta=kos=kis-nē-nəl āt'im</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a290" TIME_SLOT_REF1="ts563" TIME_SLOT_REF2="ts567">
-                <ANNOTATION_VALUE>a n'ajt ēlmxōlas-t wa-ɣ-anəl taj misne-n wōr-n ta tot-we-s wossiɣ at xōnt-j-anəl xōt laj ōl-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a n'ajt ēlmxōlas-t wa-ɣ-anəl taj misne-n wōr-n ta=tot-we-s wossiɣ at=xōnt-j-anəl xōt laj ōl-i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1718,12 +1718,12 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Glosses">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>Миснэ раньше ведь PTCL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>миснэ раньше ведь этот</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>баба Шура всегда говорить-ITER-NPST[3SG] миснэ раньше ADD говорить-CAUS-PASS-PST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>баба Шура всегда говорить-ASP-NPST[3SG] миснэ раньше ADD говорить-ASP-PASS-PST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1733,22 +1733,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>миснэ-LAT лес-LAT лес-LAT нести-PASS[NPST.3SG] ну тот человек очень это богатый богатый-TRANS стать-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>миснэ-LAT лес-LAT нести-PASS[NPST.3SG] ну тот человек очень это богатый-TRANS стать-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>что-NEG весь-? вот постоянно PTCL добыть-NPST[3SG] PTCL добыть-NPST[3SG] хорошо вот богатый-TRANS стать-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>что-NEG весь-CAR вот постоянно PTCL=добыть-NPST[3SG] хорошо вот богатый-TRANS стать-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>это ADD это 3SG.EMPH внезапно от от появиться-NPST[3SG] один манси говорить-NPST[3SG] лодка-INS здесь NEG там вниз.по.реке</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это ADD это 3SG.EMPH внезапно от=появиться-NPST[3SG] один манси говорить-NPST[3SG] лодка-INS тут NEG.PRED там вниз.по.реке-DIR</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>это Л Л-LOC это земля-LOC к</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это луйик?-LOC это земля-LOC к</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1758,7 +1758,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>однажды PTCL говорить-INF начать-PST[3SG] говорить-NPST[3SG] 1SG.OBL-LAT вниз-погрузить-TR-NPST-SG.O-IMP.2SG с нести-NPST-SG.O-IMP.2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>однажды PTCL=говорить-INF начать-PST[3SG] говорить-NPST[3SG] 1SG.OBL-LAT вниз=погрузить-TR-NPST-SG.O-IMP.2SG COM нести-NPST-SG.O-IMP.2SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1768,12 +1768,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts88">
-                <ANNOTATION_VALUE>тот величина сила-ABL PTCL=испугаться-RES будто 3SG.EMPH лодка-ABL словно вниз-DIR упасть-RES быстро так куда.то прочь PTCL=убежать-PTCP.RES</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тот величина сила-ABL PTCL=испугаться-RES будто 3SG.EMPH лодка-ABL словно вниз-DIR упасть-RES быстро так тот-APPR где.INDEF-DIR ? PTCL=убежать-PTCP.RES</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE>а почему NEG нести-PST-SG.O-3SG.S миснэ очень мудрый тот человек смерть-LAT PTCL падать-MIR.PST почему NEG нести-PST-SG.O-3SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а почему NEG=нести-PST-SG.O-3SG.S миснэ очень мудрый тот человек смерть-LAT PTCL=падать-MIR.PST почему NEG=нести-PST-SG.O-3SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1783,17 +1783,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts112">
-                <ANNOTATION_VALUE>и миснэ правда миснэ миснэ NEG ADD PRCL некоторый однажды</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и миснэ правда миснэ миснэ NEG ADD PRCL некоторый один-INDEF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts120">
-                <ANNOTATION_VALUE>а правда раньше ADD манси-PL постоянно говорить-ITER-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а правда раньше ADD манси-PL постоянно говорить-ASP-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts128">
-                <ANNOTATION_VALUE>а лес-LOC PTCL шагать-DUR-NPST-2SG если</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а лес-LOC PTCL2=шагать-DUR-NPST-2SG если</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1808,17 +1808,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a194" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts152">
-                <ANNOTATION_VALUE>это если убить-NPST-2SG DISC ночью ночью-сторона-TRANS надо-NPST[3SG] это от от лес-LOC костёр затопить-INF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это COND убить-NPST-2SG DISC ночь-сторона-TRANS надо-NPST[3SG] это от лес-LOC костёр затопить-INF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts160">
-                <ANNOTATION_VALUE>потом вниз-остановиться вниз-остановиться-INF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потом вниз=остановиться-INF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts168">
-                <ANNOTATION_VALUE>шаман человек 3SG.EMPH-POSS.3SG вниз-привязать-ASP-MIR.PST-SG.O-3SG.S. дерево-LAT рука-POSS.3SG ?-POSS.3SG-INS ночью один-INDEF-момент-LOC PTCL прийти-CVB</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>шаман человек 3SG.EMPH-POSS.3SG вниз=привязать-ASP-MIR.PST-SG.O-3SG.S. дерево-LAT рука-POSS.3SG ?-POSS.3SG-INS ночью один-INDEF-момент-LOC PTCL=прийти-CVB</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1833,7 +1833,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts192">
-                <ANNOTATION_VALUE>это-LAT спросить.ASP-PASS[NPST.3SG] PTCL спросить.ASP-MIR.PST-SG.O-3SG.S 1SG собака-POSS.1SG куда нести-PST-SG.O-2SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это-LAT спросить.ASP-PASS[NPST.3SG] PTCL=спросить.ASP-MIR.PST-SG.O-3SG.S 1SG собака-POSS.1SG куда нести-PST-SG.O-2SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1843,7 +1843,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts208">
-                <ANNOTATION_VALUE>мис-женщина это ADD это женщина а мис-мужчина это PTCL вот собака-POSS.3SG собака-POSS.3SG PTCL маленький-PEJ маленький такой соболь</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мис-женщина это ADD это женщина а мис-мужчина это тот вот собака-POSS.3SG собака-POSS.3SG PTCL маленький-PEJ маленький такой соболь</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1853,17 +1853,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts224">
-                <ANNOTATION_VALUE>а семь-ORD соболь если убить-NPST-3PL это где ночью шагать-NPST-2SG зад-ATTR-сторона-LOC 2SG-EMPH PTCL прийти-PASS[NPST]-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а семь-ORD соболь COND убить-NPST-3PL это где ночью шагать-NPST-2SG зад-ATTR-сторона-LOC 2SG-EMPH PTCL=прийти-PASS[NPST]-2SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a208" TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts231">
-                <ANNOTATION_VALUE>ADD PTCL вот PTCL мужчина шаман знать-NPST-SG.O-3SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ADD тот вот тот мужчина шаман знать-NPST-SG.O-3SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a210" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts240">
-                <ANNOTATION_VALUE>пока костёр затопить-PTCP.RES соболь от-сдирать-ASP-MIR.PST-SG.O-3SG.S от-сдирать-ASP-MIR.PST-SG.O-3SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>пока костёр затопить-RES соболь от=сдирать-ASP-MIR.PST-SG.O-3SG.S от=сдирать-ASP-MIR.PST-SG.O-3SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1878,17 +1878,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts264">
-                <ANNOTATION_VALUE>три кусок-TRANS а соболь-POSS.3SG звать-INF начать-MIR.PST[3SG] ложь ? спросить-PTCP.PST-POSS.3SG-LOC это постоянно PTCL спросить-ASP-CVB ?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>три кусок-TRANS а соболь-POSS.3SG звать-INF начать-MIR.PST[3SG] ложь-CAR спросить-PTCP.PST-POSS.3SG-LOC это постоянно PTCL спросить-ASP-CVB ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts272">
-                <ANNOTATION_VALUE>костёр через это-то тянуть-PASS[NPST.3SG] хоть домой сейчас есть-PFV-INF а 3SG.EMPH-POSS.3SG вниз=привязать-MIR.PST-SG.O-3SG.S это вниз то это</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>костёр через это-то тянуть-PASS[NPST.3SG] CONC домой сейчас есть-PFV-INF а 3SG.EMPH-POSS.3SG вниз=привязать-MIR.PST-SG.O-3SG.S это вниз то это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts280">
-                <ANNOTATION_VALUE>ухо-DU-POSS.DU длинный-TRANS PTCL=тянуть-RES-POSS.3SG-DU постоянно постоянно PTCL ночь длина тянуть-CVB тянуть-CVB</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ухо-DU-POSS.DU длинный-TRANS PTCL=тянуть-RES-POSS.3SG-DU всегда всегда PTCL ночь длина тянуть-CVB тянуть-CVB</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1898,22 +1898,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a227" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts296">
-                <ANNOTATION_VALUE>а свет-TR-ASP-NPST[3SG] куда.то пойти-ASP-NPST-3PL а тянуть-MIR.PASS.PST[3SG] тянуть-MIR.PASS.PST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а свет-TR-ASP-NPST[3SG] где.INDEF-DIR пойти-ASP-NPST-3PL а тянуть-MIR.PASS.PST[3SG] тянуть-MIR.PASS.PST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts304">
-                <ANNOTATION_VALUE>затем так PTCL свет-TR-ASP-INF начать-RES земля земля поверхность мужчина свет-TR-ASP-INF падать-RES</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>затем так PTCL=свет-TR-ASP-INF начать-RES земля земля поверхность мужчина свет-TR-ASP-INF падать-RES</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts312">
-                <ANNOTATION_VALUE>а это мис-мужчина-LAT передний-LAT голова-PROP начало-POSS.3SG соболь-POSS.3SG подать-MIR.PST-SG.O-3SG.S PTCL брать-IMP-SG.O-2SG.S DISC</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а это мис-мужчина-LAT передний-LAT голова-PROP начало-POSS.3SG соболь-POSS.3SG подать-MIR.PST-SG.O-3SG.S PTCL=брать-IMP-SG.O-2SG.S DISC</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts320">
-                <ANNOTATION_VALUE>3SG а голова-POSS.3SG махать-NPST-SG.O-3SG.S а ругаться-INF ADD NEG можно-NPST[3SG] ругаться-NPST-2SG COND PTCL коготь-ASP-PASS[NPST]-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3SG а голова-POSS.3SG махать-NPST-SG.O-3SG.S а ругаться-INF ADD NEG=можно-NPST[3SG] ругаться-NPST-2SG=COND PTCL=коготь-ASP-PASS[NPST]-2SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1923,7 +1923,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts336">
-                <ANNOTATION_VALUE>тянуть-MIR.PASS.PST[3SG] тянуть-MIR.PASS.PST[3SG] тот-хоть тянуть-PASS[NPST.3SG] DISC голова-шкура-LOC сейчас ADD ловить-ASP-PASS[NPST.3SG] хоть где костёр через тянуть-PASS[NPST.3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тянуть-MIR.PASS.PST[3SG] тянуть-MIR.PASS.PST[3SG] тот-хоть тянуть-PASS[NPST.3SG] DISC голова-шкура-LOC сейчас ADD ловить-ASP-PASS[NPST.3SG] CONC где костёр через тянуть-PASS[NPST.3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1943,17 +1943,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a243" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts368">
-                <ANNOTATION_VALUE>потом немного сохнуть-RES толстый дерево-PL-INS просто OPT-тлеть-NPST[3SG] немного-CMPR этот-способ тот нож-INS или топор-INS рубить-ASP-NPST-SG.O-2SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потом немного сохнуть-RES толстый дерево-PL-INS просто OPT=тлеть-NPST[3SG] немного-CMPR этот-способ тот нож-INS или топор-INS рубить-ASP-NPST-SG.O-2SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a244" TIME_SLOT_REF1="ts372" TIME_SLOT_REF2="ts376">
-                <ANNOTATION_VALUE>просто разгореться-NPST[3SG] огонь верх NEG гореть-ASP-NPST[3SG] а один сторона-POSS.3SG сырой дерево-INS положить-NPST-SG.O-2SG.S а жар-POSS.3SG 2SG к-POSS.2SG 2SG навстречу-POSS.2SG идти-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>просто разгореться-NPST[3SG] огонь верх=NEG=гореть-ASP-NPST[3SG] а один сторона-POSS.3SG сырой дерево-INS положить-NPST-SG.O-2SG.S а жар-POSS.3SG 2SG к-POSS.2SG 2SG навстречу-POSS.2SG идти-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a247" TIME_SLOT_REF1="ts380" TIME_SLOT_REF2="ts384">
-                <ANNOTATION_VALUE>тот-способ просто лежать-NPST-3SG NEG вверх-тлеть-ASP-PASS[NPST]-2SG это очень длинный костёр тот-способ кушать-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тот-способ просто лежать-NPST-3SG NEG вверх=тлеть-ASP-PASS[NPST]-2SG это очень длинный костёр тот-способ кушать-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1963,22 +1963,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a264" TIME_SLOT_REF1="ts396" TIME_SLOT_REF2="ts400">
-                <ANNOTATION_VALUE>потом хвост-PROP часть-POSS.3SG ADD 3SG мис-мужчина-LAT подать-MIR.PST-SG.O-3SG.S ADD голова-POSS.3SG махать-NPST-SG.O-3SG.S NEG надо-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потом хвост-PROP часть-POSS.3SG ADD 3SG мис-мужчина-LAT подать-MIR.PST-SG.O-3SG.S ADD голова-POSS.3SG махать-NPST-SG.O-3SG.S NEG=надо-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a265" TIME_SLOT_REF1="ts404" TIME_SLOT_REF2="ts408">
-                <ANNOTATION_VALUE>середина часть-POSS.3SG дать-MIR.PST-SG.O-3SG.S только.что PTCL поднять-MIR.PST-SG.O-3SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>середина часть-POSS.3SG дать-MIR.PST-SG.O-3SG.S только.что-тот поднять-MIR.PST-SG.O-3SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a266" TIME_SLOT_REF1="ts412" TIME_SLOT_REF2="ts416">
-                <ANNOTATION_VALUE>ADD утром тот мис-мужчина-POSS.3SG PTCL пойти-MIR.PST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ADD утром тот мис-мужчина-POSS.3SG PTCL=пойти-MIR.PST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a267" TIME_SLOT_REF1="ts420" TIME_SLOT_REF2="ts424">
-                <ANNOTATION_VALUE>ADD тот мужчина а тот середина часть соболь часть домой нести-MIR.PST-SG.O-3SG.S тот зад-ATTR-сторона-LOC ADD длинный быть-MIR.PST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ADD тот мужчина а тот середина часть соболь часть домой=нести-MIR.PST-SG.O-3SG.S тот зад-ATTR-сторона-LOC ADD длинный быть-MIR.PST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1993,7 +1993,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a270" TIME_SLOT_REF1="ts444" TIME_SLOT_REF2="ts448">
-                <ANNOTATION_VALUE>потом NEG богатый-TRANS начать-NPST[3SG] NEG бедный-TRANS начать-NPST[3SG] середина часть-POSS.3SG когда взять-NPST-SG.O-3SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потом NEG богатый-TRANS начать-NPST[3SG] NEG бедный-TRANS начать-NPST[3SG] середина часть-POSS.3SG рвзве=взять-NPST-SG.O-3SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2023,7 +2023,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a276" TIME_SLOT_REF1="ts492" TIME_SLOT_REF2="ts496">
-                <ANNOTATION_VALUE>этот скала-дом-PROP река деревня-LOC DISC Миша 3SG там этот жить-NPST[3SG] 3SG отец-POSS.3SG прошлый разговор-TR-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>этот скала-дом-PROP река деревня-LOC DISC Миша 3SG там PTCL2=жить-NPST[3SG] 3SG отец-POSS.3SG прошлый разговор-TR-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2038,7 +2038,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a284" TIME_SLOT_REF1="ts516" TIME_SLOT_REF2="ts520">
-                <ANNOTATION_VALUE>3SG больше.не зад-INS NEG пойти-MIR.PST-SG.O-3SG.S домой где деревня-POSS.3SG быть-NPST[3SG] дом-POSS.3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3SG больше.не зад-INS NEG=пойти-MIR.PST-SG.O-3SG.S домой где деревня-POSS.3SG быть-NPST[3SG] дом-POSS.3SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2053,7 +2053,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a287" TIME_SLOT_REF1="ts540" TIME_SLOT_REF2="ts544">
-                <ANNOTATION_VALUE>ADD зад-ATTR-сторона где прийти-IRR.PASS[3SG] Миша там DISC PTCL быть-NPST[3SG] 3SG отец-POSS.3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ADD зад-ATTR-сторона где прийти-IRR.PASS[3SG] Миша там DISC PTCL=быть-NPST[3SG] 3SG отец-POSS.3SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2063,12 +2063,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a294" TIME_SLOT_REF1="ts556" TIME_SLOT_REF2="ts560">
-                <ANNOTATION_VALUE>некоторый кто вдруг куда.то пойти-MIR.NPST-3PL PTCL-CONC искать-MIR.NPST-3PL NEG.EX</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>некоторый кто вдруг куда.то пойти-MIR.NPST-3PL PTCL=CONC=искать-MIR.NPST-3PL NEG.EX</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a295" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts568">
-                <ANNOTATION_VALUE>а шаман человек-PL знать-NPST-SG/PL.O.3PL.S это миснэ-LAT лес-LAT PTCL нести-PASS-PST[3SG] больше.не NEG найти-NPST-SG/PL.O.3SG.S где DISC быть-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а шаман человек-PL знать-NPST-SG/PL.O.3PL.S это миснэ-LAT лес-LAT PTCL=нести-PASS-PST[3SG] больше.не NEG=найти-NPST-SG/PL.O.3SG.S где DISC быть-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
