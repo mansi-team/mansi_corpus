@@ -1,6 +1,6 @@
 {
   "corpus_name": "mansi",
-  "corpus_dir": "D://Mansi//Corpus/corpus",
+  "corpus_dir": "C:\\Users\\Daria\\Documents\\GitHub\\mansi_corpus\\corpus",
   "meta_filename": "meta.csv",
   "error_log": "error.log",
   "meta_fields":
