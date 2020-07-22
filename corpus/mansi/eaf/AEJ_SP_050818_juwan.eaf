@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-07-11T16:37:16+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AEJ_SP_050818_juwan.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../Аудио/AEJ_SP_050818_juwan.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a0091289-dc3c-4603-8061-0af67b9f28b5</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">48</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="19460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="19460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="19460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="19460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="26560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="26560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="26560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="26560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="26610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="26610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="26610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="26610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="35600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="35600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="35600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="35600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="35830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="35830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="35830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="35830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="43510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="43550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="43550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="43550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="43550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="48810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="48810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="48810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="48810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="48860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="48860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="48860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="48860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="55820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="55820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="55820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="55820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="55830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="55830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="55830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="55830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="62430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="62430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="62430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="62430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="62490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="62490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="62490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="62490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="69590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="69590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="69590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="69590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="70330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="70330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="70330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="70330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="75880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="75880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="75880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="75880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="75970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="75970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="75970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="75970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="85050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="85050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="85050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="85050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="85110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="85110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="85110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="85110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="90510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="90510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="90510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="90510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="90820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="90820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="90820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="90820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="96130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="96130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="96130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="96130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="96170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="96170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="96170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="96170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="103590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="103590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="103590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="103590"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Mansi">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>mān’ɕi pēs piɕ ɕirəl ēri kol ūntuŋkw jīw ūntuŋkw n’āwram ōn’ɕuŋkw</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>j̄ūwan takwitēn jomas kol ūntəs tuwəl jotəl ute  ēri jīw ūntuŋkw wis kērmant jaləs </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>mā wōŋxa xiləs tuwəl tuw jīw ūntəs jīwe kāsəŋ xōtal akwaj ta sōsantite witəl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>taw kāsəŋ xōtal akwaj nox ta janəjmi xōtal saka tākɕ pokapas </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>tākɕ pokapas jīwe sāw wit wōwi akwaj ta sōsite sōsite tuwəl kat’ite </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>kāse ta xolas ta sunsite tawe tarməl ati sunsite kat’ite tawe xot-jōruwlaste</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>jurte akwaj ta jīwe l’al’t kārtəs tuwəl kat’i xot-kantmuwes minas </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>jā wit pussən xot-xolas wit mōɕaj patəs kat’ite minas </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>wite xomi rawtsəste tuwəl juw-ajalaste juwan wōrəl joxtəs sunsite kat’ite āt’um</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>wite xot-sōswes jīwe ....</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>xot ta tōsas akwaj sajuŋkw ta patəs tuwəl katite </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>ōlnēt ātum i jīwe xot ta matuməj akwaj ta ēmti </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Russian">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>по мансийским старинным обычаям нужно дом построить дерево посадить ребенком обзавестись ( выростить) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>иван себе хороший дом построил потом после это нужно дерево посадить сходил взял лопату</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>земляную яму выкопал после туда дерево поставил дерево каждый день постоянно поливает водой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>оно каждый день всё выше растёт солнце очень сильно запекло</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>сильно запекло дерево много воды просит постоянно поливает поливает после кошка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>соскучилась поглядывает (на него) за ней не смотрит за кошкой её забыл</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>напарник всё на дерево любуется после кошка обиделась пошла </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>на реке вода вся закончилась воды мало стало кошка пошла </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>воду опрокинула и выпила иван с леса пришёл смотрит кошки нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>воду вылили дерево</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>высохло постепенно гнить стало и кошка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>совсем нет и дерево совсем стареть постепенно стало </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Morphemes">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>mān'ɕi pēs piɕ ɕir-əl ēr-i kol ūnt-t-uŋkw jīw ūnt-t-uŋkw n’āwram ōn’ɕ-uŋkw</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>j̄ūwan takwi-tē-n jomas kol ūn-t-t-əs tuwəl jotəl ut-e ēr-i jīw ūnt-t-uŋkw wi-s kērmant jal-əs </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>mā wōŋxa xil-əs tuwəl tuw jīw ūnt-t-əs jīw-e kāsəŋ xōtal akwaɣ ta=sōs-amt-i-t-e wit-əl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>taw kāsəŋ xōtal akwaɣ nox=ta=janiɣ-m-i xōtal saka tākiɕ pokap-as </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>tākiɕ pokap-as jīw-e sāw wit wōw-i akwaɣ ta=sōs-i-t-e sōs-i-t-e tuwəl kat'i-te </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>kās-e ta=xol-as ta=suns-i-t-e taw-e tarm-əl āt'i suns-i-t-e kat'i-te taw-e xot=jōruwl-as-t-e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>jurt-e akwaɣ ta jīw-e l'al't kārt-əs tuwəl kat'i xot=kant-m-aj-awe-s min-as </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>jā wit pussən xot=xol-as wit mōɕɕa-ɣ pat-əs kat'i-te min-as </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>wit-e xomi=rawt-s-əs-t-e tuwəl juw=aj-al-as-t-e juwan wōr-əl joxt-əs suns-i-t-e kat'i-te āt'um</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts79">
+                <ANNOTATION_VALUE>wit-e xot=sōs-we-s jīw-e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>xot=ta=tōs-as akwaɣ saɣ-uŋkw ta=pat-əs tuwəl kati-te </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>ōl-nē-t āt'um i jīw-e xot=ta=matum-iɣ akwaɣ ta=jēmt-i </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Glosses">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>манси старый обряд способ-INS надо-NPST[3SG] дом сесть-TR-INF дерево сесть-TR-INF ребёнок иметь-INF</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Иван 3SG.EMPH-POSS.3SG-LAT хороший дом сесть-TR-PST[3SG] потом затем вещь-POSS.3SG надо-NPST[3SG] дерево сесть-TR-INF взять-PST[3SG] лопата сходить-PST[3SG]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>земля дыра выкопать-PST[3SG] потом туда дерево сесть-TR-PST[3SG] дерево-POSS.3SG каждый день всегда PTCL=лить-ASP-NPST-SG.O-3SG.S дерево-INS</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>3SG каждый день всегда вверх=PTCL=большой-VBZ-NPST[3SG] день очень сильно жарить-PST[3SG]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>сильно жарить-PST[3SG] дерево-POSS.3SG много вода звать-NPST[3SG] всегда PTCL=лить-NPST-SG.O-3SG.S лить-NPST-SG.O-3SG.S потом кошка-POSS.3SG</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>веселье-POSS.3SG PTCL=погибнуть-PST[3SG] PTCL=смотреть-NPST-SG.O-3SG.S 3SG-POSS.3SG на-INS NEG.PRED смотреть-NPST-SG.O-3SG.S кошка-POSS.3SG 3SG-POSS.3SG от=забыть-PST-SG.O-3SG.S</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>товарищ-POSS.3SG всегда тот дерево-POSS.3SG на любоваться-PST[3SG] потом кошка от=гнев-INCH-VBZ-PASS-PST[3SG] пойти-PST[3SG]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>река вода весь от=погибнуть-PST[3SG] вода мало-TRANS начать-PST[3SG] кошка-POSS.3SG пойти-PST[3SG]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>вода-POSS.3SG навзничь=опрокинуть-ASP-PST-SG.O-3SG.S потом домой=выпить-ASP-PST-SG.O-3SG.S Иван лес-ABL прийти-PST[3SG] смотреть-NPST-SG.O-3SG.S кошка-POSS.3SG NEG.EX</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>вода-POSS.3SG от=лить-PASS-PST[3SG] дерево-POSS.3SG</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>от=PTCL=высохнуть-PST[3SG] всегда гнить-INF PTCL=начать-PST[3SG] потом кошка-POSS.3SG</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>быть-NMZ-LOC NEG.EX и дерево-POSS.3SG от=PTCL=старый-TRANS всегда PTCL=стать-NPST[3SG]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
