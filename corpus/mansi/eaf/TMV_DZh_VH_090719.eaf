@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-07-23T13:43:57+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-08-25T20:10:51+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/Разобранное/TMV_DZh_VKh_090719.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/Разобранное/TMV_DZh_VKh_090719.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/Desktop/мансийский/mansi work/tanya/разборы/тестовое видео/тётя Маша 9 июля wmv.wmv" MIME_TYPE="video/*" RELATIVE_MEDIA_URL="./тётя Маша 9 июля wmv.wmv"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:887fcc39-f72e-41d0-82a6-a0bbb958bb30</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">124</PROPERTY>
     </HEADER>
@@ -258,7 +258,7 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Mansi">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>xāp-a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xāp-a?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -268,7 +268,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
-                <ANNOTATION_VALUE>xul'ti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xul'ti?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -283,12 +283,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
-                <ANNOTATION_VALUE>tuw jaluŋkw kusēɣən-a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw jaluŋkw kusēɣən-a?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts53">
-                <ANNOTATION_VALUE>žen'a taj mol'ax at joxti tuw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>žen'a taj mol'ax ? at joxti tuw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -298,22 +298,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts69">
-                <ANNOTATION_VALUE>ōs paša ōs taj xōt wrod'e palunoɕnəjt ōli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ōs paša ōs taj xōt... wrod'e palunoɕnəjt ōli? </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts77">
-                <ANNOTATION_VALUE>tixōtal</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tixōtal?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts85">
-                <ANNOTATION_VALUE>kol'a iwd'el'ta ōli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kol'a iwd'el'ta ōli?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts93">
-                <ANNOTATION_VALUE>žen'a taw lāwi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>žen'a taw lāwi?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -323,7 +323,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts109">
-                <ANNOTATION_VALUE>sēməl žen'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sēməl žen'a?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -338,12 +338,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts133">
-                <ANNOTATION_VALUE>lēplan</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>lēplan?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts141">
-                <ANNOTATION_VALUE>lēplat ōliɣlasən</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>lēplat ōliɣlasən?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -363,7 +363,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts173">
-                <ANNOTATION_VALUE>naŋ xāsēɣən potərtaŋkw ōs taw at xāsi mān'ɕi lātəŋ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>naŋ xāsēɣən potərtaŋkw ōs taw at xāsi mān'ɕi lātəŋ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -373,7 +373,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts189">
-                <ANNOTATION_VALUE>xāp āt'im jā ullta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xāp āt'im jā ullta ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -388,12 +388,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts213">
-                <ANNOTATION_VALUE>ōli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ōli?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts221">
-                <ANNOTATION_VALUE>jā wātan minnuwe tot rōxnuwe xot'ut </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jā wātan minnuwe tot rōxnuwe xot'ut ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -440,12 +440,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>tuw jal-uŋkw kus-ēɣ-ən=a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw jal-uŋkw kus-ēɣ-ən=a?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts54">
-                <ANNOTATION_VALUE>žen'a taj mol'ax at joxt-i tuw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>žen'a taj mol'ax ? at joxt-i tuw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -455,7 +455,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>ōs paša ōs taj xōt вроде palunōɕnəj-t ōl-i </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ōs paša ōs taj xōt... wrod'e palunoɕnəj-t ōl-i </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -465,7 +465,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts86">
-                <ANNOTATION_VALUE>kol'a iwd'el'-ta ōl-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kol'a iwd'el'-ta ōl-i?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -530,7 +530,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts190">
-                <ANNOTATION_VALUE>xāp āt'im jā ullta</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xāp āt'im jā ullta ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -550,7 +550,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts222">
-                <ANNOTATION_VALUE>jā wāta-n min-nuwe tot rōx-nuwe xot'ut </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jā wāta-n min-nuwe tot rōx-nuwe xot'ut ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -602,7 +602,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>Женя это быстро NEG прийти-NPST[3SG] туда</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Женя это быстро ? NEG прийти-NPST[3SG] туда</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -687,7 +687,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts191">
-                <ANNOTATION_VALUE>лодка NEG.EX река через</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>лодка NEG.EX река через ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -707,7 +707,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts223">
-                <ANNOTATION_VALUE>река берег-LAT пойти-IRR.PASS там кричать-IRR.PASS кто </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>река берег-LAT пойти-IRR.PASS там кричать-IRR.PASS кто ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -844,7 +844,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts192">
-                <ANNOTATION_VALUE>Лодки нету, через реку</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Лодки нету, через реку ?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -864,7 +864,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts224">
-                <ANNOTATION_VALUE>Если на берег пойти, там покричать</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Если на берег пойти, там покричать,?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

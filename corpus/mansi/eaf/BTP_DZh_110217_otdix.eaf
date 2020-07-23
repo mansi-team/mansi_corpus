@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-04-08T15:06:05+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-07-23T13:39:10+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Life/Mansi/mansi work/! texts/tanya/разборы/глоссирование/разобрать/BTP_DZh_110217_otdix.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./BTP_DZh_110217_otdix.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/Разобранное/BTP_DZh_110217_otdix.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/Разобранное/BTP_DZh_110217_otdix.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:da006bec-fcae-49a5-b5d0-3ae84751ca42</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">148</PROPERTY>
     </HEADER>
@@ -331,7 +331,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
-                <ANNOTATION_VALUE>tō māt... tō māt ārtəs? jalasēɣt ɕisupan</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tō māt tō māt ārtəs jalasēɣt ɕisupan</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -451,7 +451,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts237">
-                <ANNOTATION_VALUE>a tox pāwəl ? xalt sāt wērista xāpəl tōwērt jalasēw xāpəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a tox pāwəl ну xalt sāt wērista xāpəl tōwērt jalasēw xāpəl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -518,7 +518,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>tō mā-t... tō mā-t ārtəs? jal-as-ēɣ-t ɕisupa-n</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tō mā-t tō mā-t ārtm-əs jal-as-ēɣ-t ɕisupa-n</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -638,7 +638,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts238">
-                <ANNOTATION_VALUE>a tox pāwəl ? xal-t sāt wērista xāp-əl tōwa ēr-t jal-as-ē-w xāp-əl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>a tox pāwəl ну xal-t sāt wērista xāp-əl tōwa ēr-t jal-as-ē-w xāp-əl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -705,7 +705,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE>некоторый земля-LOC некоторый земля-LOC ? сходить-ASP-NPST-3PL Чистоп-LAT</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>некоторый земля-LOC некоторый земля-LOC успеть-PST[3SG] сходить-ASP-NPST-3PL Чистоп-LAT</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -825,7 +825,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts239">
-                <ANNOTATION_VALUE>а так деревня ? промежуток-LOC семь километр лодка-INS некоторый момент-LOC сходить-ASP-NPST-1PL лодка-INS</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а так деревня ну промежуток-LOC семь километр лодка-INS некоторый момент-LOC сходить-ASP-NPST-1PL лодка-INS</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -877,7 +877,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>и много народу приезжает ? откуда-то приезжает народ, они</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и много народу приезжает из разных мест откуда-то приезжает народ, они</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -892,7 +892,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>в некоторые места... в некоторые места ? ездят на Чистоп</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>в некоторые места в некоторые места успевают ездят на Чистоп</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
