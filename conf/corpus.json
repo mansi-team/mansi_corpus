@@ -1,6 +1,6 @@
 {
   "json_indent": -1,
-  "corpus_dir": "D://Mansi/Corpus/corpus/mansi",
+  "corpus_dir": "C:\\Users\\Daria\\Documents\\GitHub\\mansi_corpus\\corpus\\mansi",
   "meta_filename": "meta.csv",
   "meta_fields": ["filename",
     "author",

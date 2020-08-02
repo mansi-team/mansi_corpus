@@ -406,8 +406,8 @@ create_child_gloss_tier_from_annotation_concatenation("D://ForElan//ForSIL_CORPU
                                           "fonConcat", "fon", "gl", "glConcat");"""
 
 
-folder = "D://Mansi/Corpus/corpus/mansi/preprocessing/"
-folder_out = "D://Mansi/Corpus/corpus/mansi/eaf/"
+folder = "C:\Users\Daria\Documents\GitHub\mansi_corpus\corpus\mansi\preprocessing"
+folder_out = "C:\Users\Daria\Documents\GitHub\mansi_corpus\corpus\mansi\eaf"
 for filename in os.listdir(folder):
     if filename.endswith(".eaf"):
         print(filename)
