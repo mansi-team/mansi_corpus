@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*
 import re
+import traceback
+
+import sys
 
 __author__ = "gisly"
 
@@ -18,9 +21,7 @@ def create_parent_tier_from_annotation_concatenation(filename, new_filename,
                                                 parent_tier + '"]')[0]
     tier_to_concatenate_element = srcTree.xpath('/ANNOTATION_DOCUMENT/TIER[@TIER_ID="' +
                                                 tier_to_concatenate + '"]')[0]
-    new_tier_element = etree.SubElement(srcTree.getroot(), 'TIER', DEFAULT_LOCALE = 'ru',
-                                       LINGUISTIC_TYPE_REF = parent_tier_element.attrib['LINGUISTIC_TYPE_REF'],
-                                       TIER_ID = new_tier_name)
+
 
     for alignable_annotation in srcTree.xpath('/ANNOTATION_DOCUMENT/TIER[@TIER_ID="' +
                                                    parent_tier + '"]/ANNOTATION/'
@@ -200,6 +201,7 @@ def convert_plain_file(filename, new_filename, word_tier_name,
         russian_current = None
         original_current = None
         if main_tier_type == russian_tier_type:
+
             russian_current = russian_all_independent[index].strip()
 
             original_current = original_all_independent[index].strip()
@@ -409,6 +411,13 @@ folder_out = "C:\Users\Daria\Documents\GitHub\mansi_corpus\corpus\mansi\eaf"
 for filename in os.listdir(folder):
     if filename.endswith(".eaf"):
         print(filename)
-        convert_plain_file(os.path.join(folder, filename),
-                  os.path.join(folder_out, filename),
-                 "fonWord", "Morphemes", "Glosses", "Morphemes")
+        if filename == 'PSP_SP_240717_bread.eaf':
+            print('aaaa')
+        try:
+            convert_plain_file(os.path.join(folder, filename),
+                      os.path.join(folder_out, filename),
+                     "fonWord", "Morphemes", "Glosses", "Morphemes")
+        except Exception as e:
+            print(filename + ":" + str(e))
+            traceback.print_exc(file=sys.stdout)
+
