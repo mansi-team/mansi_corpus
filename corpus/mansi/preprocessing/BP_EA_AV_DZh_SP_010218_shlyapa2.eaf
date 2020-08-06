@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-05-14T16:30:12+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-06T10:23:53+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/новые/BP_EA_AV_DZh_SP_010218_shlyapa2.WAV" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./BP_EA_AV_DZh_SP_010218_shlyapa2.WAV"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/новые/BP_EA_AV_DZh_SP_010218_shlyapa2.WAV" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:da76f858-eead-4880-8e3f-2900e058a3de</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1244</PROPERTY>
     </HEADER>
@@ -7464,7 +7464,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a744" TIME_SLOT_REF1="ts476" TIME_SLOT_REF2="ts480">
-                <ANNOTATION_VALUE>мужчина иметь-NPST[3SG] потом женщина-PL некоторый-PL женщина иметь-NPST-3PL некоторый-PL некоторый-PL NEG иметь-NPST-3PL некоторый-PL иметь-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мужчина иметь-NPST[3SG] потом женщина-PL некоторый-PL женщина иметь-NPST-3PL некоторый-PL некоторый-PL NEG=иметь-NPST-3PL некоторый-PL иметь-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

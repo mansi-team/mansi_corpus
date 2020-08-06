@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-10-28T19:40:03+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-06T09:39:32+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Life/Mansi/mansi work/tanya/разборы/глоссирование/разобрать/!!Выдано Васе/ASN_SP_050818_potyr/ASN_SP_050818_potyr.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ASN_SP_050818_potyr.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Life/Mansi/mansi work/tanya/разборы/глоссирование/разобрать/!!Выдано Васе/ASN_SP_050818_potyr/ASN_SP_050818_potyr.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../../Life/Mansi/mansi work/tanya/разборы/глоссирование/разобрать/!!Выдано Васе/ASN_SP_050818_potyr/ASN_SP_050818_potyr.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3dacd18b-7282-41fe-b98f-c9a0d7d5c3c9</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">170</PROPERTY>
     </HEADER>
@@ -709,7 +709,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>mi-s-an-um tin-al-axt-as-um at wā-s-um at wā-s-t-um ta-ɕir jēmt-ēɣ-um at wi-we-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mi-s-an-um tin-al-axt-as-um at=wā-s-um at=wā-s-t-um ta-ɕir jēmt-ēɣ-um at=wi-we-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -881,7 +881,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>дать-PST-PL.O-1SG.S цена-ASP-REFL-PST-1SG NEG знать-PST-1SG NEG знать-PST-SG.O-1SG.S  тот-способ стать-NPST-1SG NEG брать-PASS[NPST]-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дать-PST-PL.O-1SG.S цена-ASP-REFL-PST-1SG NEG=знать-PST-1SG NEG=знать-PST-SG.O-1SG.S  тот-способ стать-NPST-1SG NEG=взять-PASS[NPST]-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

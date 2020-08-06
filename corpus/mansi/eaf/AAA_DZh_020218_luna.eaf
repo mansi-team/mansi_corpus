@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-07-22T12:58:47+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-06T09:28:08+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AAA_DZh_020218_luna.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AAA_DZh_020218_luna.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AAA_DZh_020218_luna.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AAA_DZh_020218_luna.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:68ecd635-9961-45b9-8060-530f302c7ddc</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">20</PROPERTY>
     </HEADER>
@@ -131,7 +131,7 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Glosses">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>когда от=погибнуть-INF начать-NPST[3SG] DISC домой-DIR тот время-LOC от=погибнуть-NPST[3SG] темнота 3SG же</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>когда от=погибнуть-INF начать-NPST[3SG] DISC домой-DIR начать-NPST[3SG] тот время-LOC от=погибнуть-NPST[3SG] темнота 3SG же</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-07-16T11:32:25+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-06T09:59:18+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AVN_SP_160818_kukkuk.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../Аудио/AVN_SP_160818_kukkuk.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Daria/YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AVN_SP_160818_kukkuk.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../YandexDisk/Мансийский проект/Экспедиционные записи/Верхнелозьвинский/Тексты/Аудио/AVN_SP_160818_kukkuk.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:44d283f9-3cfc-49d6-a80a-62736276c30f</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
     </HEADER>
@@ -243,7 +243,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>потом мать-POSS.3DU кукушка-TRANS PTCL=лететь-ASP-PST[3SG] один-INDEF-момент- LOC</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потом мать-POSS.3DU кукушка-TRANS PTCL=лететь-ASP-PST[3SG] один-INDEF-момент-LOC</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
