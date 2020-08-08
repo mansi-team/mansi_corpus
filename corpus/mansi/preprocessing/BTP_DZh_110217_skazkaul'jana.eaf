@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-06T10:26:40+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-08T08:21:12+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Life/Mansi/mansi work/! texts/tanya/разборы/глоссирование/разобрать/BTP_DZh_110217_skazkaul'jana.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../../Life/Mansi/mansi work/! texts/tanya/разборы/глоссирование/разобрать/BTP_DZh_110217_skazkaul'jana.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5d59e56f-91fa-43a1-939b-fe38968f61a4</PROPERTY>
@@ -2570,7 +2570,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a282" TIME_SLOT_REF1="ts562" TIME_SLOT_REF2="ts566">
-                <ANNOTATION_VALUE>an' ? tox ōl-ēɣ-um tax ta-kem sāl'-ət</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>an' tox ōl-ēɣ-um tax ta-kem sāl'-ət</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3277,7 +3277,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts331" TIME_SLOT_REF2="ts335">
-                <ANNOTATION_VALUE>сидеть-NPST[3SG] сидеть-NPST[3SG]  улыбнуться-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сидеть-NPST[3SG] сидеть-NPST[3SG] улыбнуться-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3422,7 +3422,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a292" TIME_SLOT_REF1="ts563" TIME_SLOT_REF2="ts567">
-                <ANNOTATION_VALUE>сейчас ? так быть-NPST-1SG FUT тот-APPR жаль-PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>сейчас так быть-NPST-1SG FUT тот-APPR жаль-PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

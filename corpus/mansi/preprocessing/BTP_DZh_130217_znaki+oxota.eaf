@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-06T10:27:34+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-08T08:22:28+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Life/Mansi/mansi work/! texts/tanya/разборы/глоссирование/разобрать/BTP_DZh_130217_znaki+oxota.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../../../Life/Mansi/mansi work/! texts/tanya/разборы/глоссирование/разобрать/BTP_DZh_130217_znaki+oxota.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a6ecdebe-44d9-4612-800a-fcf1c6c0f21d</PROPERTY>
@@ -1405,7 +1405,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts231">
-                <ANNOTATION_VALUE>потом найти-REFL-NPST-3PL PTCL=знать-NPST-SG.O-3PL.S кто там быть-PST[3SG] Q-разный лес-зверь рука-LAT упасть-TR-PST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потом найти-REFL-NPST-3PL PTCL=знать-NPST-SG/PL.O.3PL.S кто там быть-PST[3SG] Q-разный лес-зверь рука-LAT упасть-TR-PST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
