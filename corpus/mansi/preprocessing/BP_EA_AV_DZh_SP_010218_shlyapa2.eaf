@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-08T08:16:15+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-14T12:16:34+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/новые/BP_EA_AV_DZh_SP_010218_shlyapa2.WAV" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:da76f858-eead-4880-8e3f-2900e058a3de</PROPERTY>
@@ -6562,7 +6562,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1001" TIME_SLOT_REF1="ts1523" TIME_SLOT_REF2="ts1527">
-                <ANNOTATION_VALUE>min-ne-n mus mat palit ta=l'āwt-im ... portaŋəŋ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>min-ne-n mus mat palit ta=l'āwt-im portaŋəŋ</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6737,7 +6737,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1071" TIME_SLOT_REF1="ts1803" TIME_SLOT_REF2="ts1807">
-                <ANNOTATION_VALUE>āt'i tārɣ-ət āt'i kol-ət āt'i sowt-ət āt'i man-sir-man ēt-pos  ēt-pos āā</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>āt'i tārɣ-ət āt'i kol-ət āt'i sowt-ət āt'i man-sir-man ēt-pos ēt-pos āā</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7199,7 +7199,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a636" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>край-TR-IMP-SG.O-2SG.S PTCL 2SG край-TR-IMP-SG.O-2SG.S да NEG.PRED 2SG 1SG=SQ NEG.PRED 1SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>край-TR-IMP-SG.O-2SG.S PTCL 2SG край-TR-IMP-SG.O-2SG.S да NEG.PRED 2SG 1SG=Q NEG.PRED 1SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7249,7 +7249,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a656" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts136">
-                <ANNOTATION_VALUE>трава=SQ дерево NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>трава=Q дерево NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7289,7 +7289,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a672" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts200">
-                <ANNOTATION_VALUE>корень=SQ имя-POSS.3SG от=забыть-PST-SG.O-1SG.S корень=SQ деревня-поверхность-LOC DISC совсем много</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>корень=Q имя-POSS.3SG от=забыть-PST-SG.O-1SG.S корень=Q деревня-поверхность-LOC DISC совсем много</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7304,7 +7304,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a679" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts224">
-                <ANNOTATION_VALUE>кашель слюна-LAT помочь-NPST[3SG] шиповник=SQ да шиповник</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кашель слюна-LAT помочь-NPST[3SG] шиповник=Q да шиповник</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7329,7 +7329,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a688" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts264">
-                <ANNOTATION_VALUE>чай PTCL2=пить-NPST-1PL такой ягода да вот шиповник ну сказать-INF надо-PST[3SG] чай пить-INF можно-NPST[3SG] 2SG=SQ </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>чай PTCL2=пить-NPST-1PL такой ягода да вот шиповник ну сказать-INF надо-PST[3SG] чай пить-INF можно-NPST[3SG] 2SG=Q </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7439,7 +7439,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a732" TIME_SLOT_REF1="ts436" TIME_SLOT_REF2="ts440">
-                <ANNOTATION_VALUE>Q-разный-Q шаман вещь-PL такой-вещь-INS бубен-SQ крутить-REFL-NPST-3PL да бубен</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Q-разный-Q шаман вещь-PL такой-вещь-INS бубен-Q крутить-REFL-NPST-3PL да бубен</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7494,12 +7494,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a755" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts528">
-                <ANNOTATION_VALUE>женщина-PL некоторый-PL 2SG иметь-NPST-2SG такой 1SG=SQ NEG.PRED 3SG унты NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>женщина-PL некоторый-PL 2SG иметь-NPST-2SG такой 1SG=Q NEG.PRED 3SG унты NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a756" TIME_SLOT_REF1="ts532" TIME_SLOT_REF2="ts536">
-                <ANNOTATION_VALUE>да мужчина ADD мужчина личность-PL иметь-NPST-3PL иметь-NPST-3PL летом унты-INS разве шагать-NPST-3PL это</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>да мужчина ADD мужчина личность-PL иметь-NPST-3PL летом унты-INS разве шагать-NPST-3PL это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7524,7 +7524,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a772" TIME_SLOT_REF1="ts572" TIME_SLOT_REF2="ts576">
-                <ANNOTATION_VALUE>1SG=SQ иметь-NPST-1SG такой-вещь 2SG=SQ хорошо COND смотреть-ASP-REFL-INF наверное ADD где иметь-NPST-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1SG=Q иметь-NPST-1SG такой-вещь 2SG=Q хорошо COND смотреть-ASP-REFL-INF наверное ADD где иметь-NPST-2SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7549,12 +7549,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a777" TIME_SLOT_REF1="ts612" TIME_SLOT_REF2="ts616">
-                <ANNOTATION_VALUE>зимой сейчас ADD иметь-NPST-SG.O-1PL=SQ зимой один земля-LAT класть-NPST-PL.O-1PL.S </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>зимой сейчас ADD иметь-NPST-SG.O-1PL=Q зимой один земля-LAT класть-NPST-PL.O-1PL.S </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a778" TIME_SLOT_REF1="ts620" TIME_SLOT_REF2="ts624">
-                <ANNOTATION_VALUE>где.INDEF-DIR весло=SQ NEG.PRED резиновый лодка NEG.PRED потом пойти-NPST-1PL INDEF-длина там PTCL творить-NPST-1PL река берег-LOC тот-ну-INS</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>где.INDEF-DIR весло=Q NEG.PRED резиновый лодка NEG.PRED потом пойти-NPST-1PL INDEF-длина там PTCL=творить-NPST-1PL река берег-LOC тот-ну-INS</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7599,7 +7599,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1244" TIME_SLOT_REF1="ts692" TIME_SLOT_REF2="ts696">
-                <ANNOTATION_VALUE>спать-INF хотеть-NPST-2SG=SQ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>спать-INF хотеть-NPST-2SG=Q</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7664,7 +7664,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a821" TIME_SLOT_REF1="ts796" TIME_SLOT_REF2="ts800">
-                <ANNOTATION_VALUE>кошелёк=SQ NEG.PRED деньги PTCL=брать-NPST[3SG] DISC магазин-LOC этот-ну этот такой тот ну.ка 1SG это такой-вещь PTCL=брать-MIR.PST-1SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кошелёк=Q NEG.PRED деньги PTCL=брать-NPST[3SG] DISC магазин-LOC этот-ну этот такой тот ну.ка 1SG это такой-вещь PTCL=брать-MIR.PST-1SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7714,12 +7714,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a840" TIME_SLOT_REF1="ts876" TIME_SLOT_REF2="ts880">
-                <ANNOTATION_VALUE>2SG-POSS.2SG-LAT надо-PST[3SG] осуждать-ASP-INF 1SG бок-POSS.1SG-LOC ну.ка тот образ-ATTR вещь сидеть-ATT-NPST-3DU понять-IRR-SG.O-3SG.S тот-способ вещь сказать-INF быстро понять-NPST-SG.O-1PL.S=SQ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2SG-POSS.2SG-LAT надо-PST[3SG] осуждать-ASP-INF 1SG бок-POSS.1SG-LOC ну.ка тот образ-ATTR вещь сидеть-ATT-NPST-3DU понять-IRR-SG.O-3SG.S тот-способ это вещь сказать-INF быстро понять-NPST-SG.O-1PL.S=Q</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a843" TIME_SLOT_REF1="ts884" TIME_SLOT_REF2="ts888">
-                <ANNOTATION_VALUE>2SG DISC некоторый-раз что.INDEF купить-NPST-2SG красивый что.INDEF сказать-NPST-2SG это тот-APPR красивый что.INDEF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>2SG DISC некоторый-раз что.INDEF купить-NPST-2SG красивый что.INDEF сказать-NPST-2SG это это тот-APPR красивый что.INDEF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7799,12 +7799,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a881" TIME_SLOT_REF1="ts1012" TIME_SLOT_REF2="ts1016">
-                <ANNOTATION_VALUE>3SG 1SG NEG=знать-NPST-SG.O-1SG.S как 3SG-POSS.3SG осуждать-ASP-INF быстро исчезнуть-NPST[3SG] пуля NEG.PRED стрела=SQ NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3SG 1SG NEG=знать-NPST-SG.O-1SG.S как 3SG-POSS.3SG осуждать-ASP-INF быстро исчезнуть-NPST[3SG] пуля NEG.PRED стрела=Q NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a882" TIME_SLOT_REF1="ts1020" TIME_SLOT_REF2="ts1024">
-                <ANNOTATION_VALUE>другой-способ-INS ка? осуждать-ASP-NPST-SG.O-1SG.S потом каждый человек иметь-NPST[3SG] каждый манси мужчина лес-LOC сходить-ASP-NMZ такой-вещь иметь-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>другой-способ-INS ка осуждать-ASP-NPST-SG.O-1SG.S потом каждый человек иметь-NPST[3SG] каждый манси мужчина лес-LOC сходить-ASP-NMZ мужчина такой-вещь иметь-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8054,7 +8054,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a978" TIME_SLOT_REF1="ts1420" TIME_SLOT_REF2="ts1424">
-                <ANNOTATION_VALUE>когда что.INDEF тянуть-NMZ сани=SQ NEG.PRED когда лес-LAT прийти-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>когда что.INDEF тянуть-NMZ сани=Q NEG.PRED когда лес-LAT прийти-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8074,7 +8074,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a984" TIME_SLOT_REF1="ts1452" TIME_SLOT_REF2="ts1456">
-                <ANNOTATION_VALUE>знак=SQ рука-знак ну</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>знак=Q рука-знак ну</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8099,7 +8099,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a994" TIME_SLOT_REF1="ts1492" TIME_SLOT_REF2="ts1496">
-                <ANNOTATION_VALUE>ругаться-CVB шагать-NPST-2SG тянуть-NPST-SG.O-2SG.S лодка=SQ вниз=войти-PFV-NPST-2SG Q-разный-Q</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ругаться-CVB шагать-NPST-2SG тянуть-NPST-SG.O-2SG.S лодка=Q вниз=войти-PFV-NPST-2SG Q-разный-Q</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8114,12 +8114,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1000" TIME_SLOT_REF1="ts1516" TIME_SLOT_REF2="ts1520">
-                <ANNOTATION_VALUE>стать-NPST-2SG большой вода CONC лес-LOC CONC зимой туда стать-NPST-2SG потом INDEF длина PTCL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>стать-NPST-2SG большой вода CONC лес-LOC CONC зимой туда стать-NPST[3SG] потом INDEF длина PTCL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1003" TIME_SLOT_REF1="ts1524" TIME_SLOT_REF2="ts1528">
-                <ANNOTATION_VALUE>пойти-NMZ-2SG до длина PTCL=ругаться-CVB ???</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>пойти-NMZ-2SG до INDEF длина PTCL=ругаться-CVB завалы</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8154,17 +8154,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1017" TIME_SLOT_REF1="ts1580" TIME_SLOT_REF2="ts1584">
-                <ANNOTATION_VALUE>низ-LOC надеть-PASS[NPST.3SG] маленький штаны=SQ NEG.PRED NEG=знать-NPST-SG.O-1SG.S</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>низ-LOC надеть-PASS[NPST.3SG] маленький штаны=Q NEG.PRED NEG=знать-NPST-SG.O-1SG.S</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1018" TIME_SLOT_REF1="ts1588" TIME_SLOT_REF2="ts1592">
-                <ANNOTATION_VALUE>ну 2SG сейчас такой-вещь-INS NEG=быть-NPST-2SG такой-вещь 1SG ADD NEG=иметь-NPST-1SG такой-вещь женщина человек 2SG ADD NEG=иметь-NPST-2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну 2SG сейчас такой-вещь-INS NEG=быть-NPST-2SG NEG=иметь-NPST-2SG такой-вещь 1SG ADD NEG=иметь-NPST-1SG такой-вещь женщина человек 2SG ADD NEG=иметь-NPST-2SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1020" TIME_SLOT_REF1="ts1596" TIME_SLOT_REF2="ts1600">
-                <ANNOTATION_VALUE>женщина человек-PL манси платье=SQ NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>женщина человек-PL манси платье=Q NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8174,27 +8174,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1027" TIME_SLOT_REF1="ts1612" TIME_SLOT_REF2="ts1616">
-                <ANNOTATION_VALUE>манси платье=SQ платье да платье</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>манси платье=Q платье да платье</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1028" TIME_SLOT_REF1="ts1620" TIME_SLOT_REF2="ts1624">
-                <ANNOTATION_VALUE>ну.ка 1SG.OBL сюда дать-IMP-SG.O-2SG.S 1SG ка такой-вещь ADD совсем весь иметь-NPST-3PL сейчас=SQ сейчас ADD иметь-NPST-3PL 3PL-EMPH весь иметь-NPST-1PL такой что.INDEF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну.ка 1SG.OBL сюда дать-IMP-SG.O-2SG.S 1SG ка такой-вещь ADD совсем весь иметь-NPST-3PL сейчас=Q сейчас ADD иметь-NPST-3PL 3PL-EMPH весь иметь-NPST-1PL такой что.INDEF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1029" TIME_SLOT_REF1="ts1628" TIME_SLOT_REF2="ts1632">
-                <ANNOTATION_VALUE>весь иметь-NPST-1PL=SQ этот деревня-LOC CONC кто весь такой что.INDEF иметь-NPST[3SG] 3DU иметь-NPST-3DU=SQ 3DU ADD иметь-NPST-3DU</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>весь иметь-NPST-1PL=Q этот деревня-LOC CONC кто весь такой что.INDEF иметь-NPST[3SG] 3DU иметь-NPST-3DU=Q 3DU ADD иметь-NPST-3DU</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1030" TIME_SLOT_REF1="ts1636" TIME_SLOT_REF2="ts1640">
-                <ANNOTATION_VALUE>что.INDEF ухо=SQ волосы=SQ NEG.PRED весь иметь-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>что.INDEF ухо=Q волосы=Q NEG.PRED весь иметь-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1040" TIME_SLOT_REF1="ts1644" TIME_SLOT_REF2="ts1648">
-                <ANNOTATION_VALUE>это вещь платье=SQ нос рука ноги NEG.PRED человек кусок-PEJ NEG.PRED просто иметь-NPST[3SG] такой что.INDEF каждый что.INDEF шапка=SQ NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это вещь платье=Q нос рука ноги NEG.PRED человек кусок-PEJ NEG.PRED просто иметь-NPST[3SG] такой что.INDEF каждый что.INDEF шапка=Q NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8209,7 +8209,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1043" TIME_SLOT_REF1="ts1668" TIME_SLOT_REF2="ts1672">
-                <ANNOTATION_VALUE>1SG это наверное много-CMPR тень NEG.PRED 1SG это наверное много-CMPR иметь-NPST-1SG жир=SQ NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1SG это наверное много-CMPR тень NEG.PRED 1SG это наверное много-CMPR иметь-NPST-1SG жир=Q NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8274,7 +8274,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1067" TIME_SLOT_REF1="ts1772" TIME_SLOT_REF2="ts1776">
-                <ANNOTATION_VALUE>слишком очень сильно когда как.то делать-PFV-PASS[NPST]-3PL только PTCL этот-способ плач=SQ плач да маленький ребёнок-PL DISC очень плакать-NPST-3PL большой вещь-PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>слишком очень сильно когда как.то делать-PFV-PASS[NPST]-3PL только PTCL этот-способ плач=Q плач да маленький ребёнок-PL DISC очень плакать-NPST-3PL большой вещь-PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8344,7 +8344,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1092" TIME_SLOT_REF1="ts1884" TIME_SLOT_REF2="ts1888">
-                <ANNOTATION_VALUE>тот-способ делать-NPST-1PL ADD 1PL-EMPH отдельный собрать-REFL-PST-1PL=SQ народ народ NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тот-способ делать-NPST-1PL ADD 1PL-EMPH отдельный собрать-REFL-PST-1PL=Q народ народ NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8374,7 +8374,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1104" TIME_SLOT_REF1="ts1932" TIME_SLOT_REF2="ts1936">
-                <ANNOTATION_VALUE>1PL-EMPH делать-NPST-1PL такой-вещь думать-REFL-NPST-1PL=SQ NEG.PRED мысль-PROP1 1PL-EMPH делать-NMZ что.INDEF-POSS.1PL PTCL делать-NPST-1PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1PL-EMPH делать-NPST-1PL такой-вещь думать-REFL-NPST-1PL=Q NEG.PRED мысль-PROP1 1PL-EMPH делать-NMZ что.INDEF-POSS.1PL PTCL делать-NPST-1PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8404,7 +8404,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1116" TIME_SLOT_REF1="ts1980" TIME_SLOT_REF2="ts1984">
-                <ANNOTATION_VALUE>способ=SQ близкий-LOC-CMPR немного другой-способ-CMPR</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>способ=Q близкий-LOC-CMPR немного другой-способ-CMPR</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8489,7 +8489,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1150" TIME_SLOT_REF1="ts2116" TIME_SLOT_REF2="ts2120">
-                <ANNOTATION_VALUE>очень надо-NMZ-вещь да манси-PL-LAT сейчас это от=забыть-INF упасть-PASS-PST[3SG] сейчас ADD очень идол небо смотреть-PST-3PL туда-DIR богатырь идол да</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>очень надо-NMZ-вещь да манси-PL-LAT сейчас это от=забыть-INF упасть-PASS-PST[3SG] сейчас ADD очень идол небо смотреть-PST-3PL туда-DIR богатырь най богатырь идол да</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8504,7 +8504,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1156" TIME_SLOT_REF1="ts2140" TIME_SLOT_REF2="ts2144">
-                <ANNOTATION_VALUE>тень=SQ сердце NEG.PRED тень NEG.PRED сердце NEG.PRED голова да </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>тень=Q сердце NEG.PRED тень NEG.PRED сердце NEG.PRED голова да </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8564,7 +8564,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1181" TIME_SLOT_REF1="ts2236" TIME_SLOT_REF2="ts2240">
-                <ANNOTATION_VALUE>перед-DIR=SQ потом тот что.INDEF-POSS.3SG удочка-VBZ-NPST[3SG] 3SG тот-ну-INS PTCL=быть-NPST[3SG] удочка-VBZ-NMZ благодаря удочка NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>перед-DIR=Q потом тот что.INDEF-POSS.3SG удочка-VBZ-NPST[3SG] 3SG тот-ну-INS PTCL=быть-NPST[3SG] удочка-VBZ-NMZ благодаря удочка NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8634,7 +8634,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1208" TIME_SLOT_REF1="ts2348" TIME_SLOT_REF2="ts2352">
-                <ANNOTATION_VALUE>такой-вещь делать-INF=SQ 2DU это наверное NEG=уметь-NPST-2DU хлеб делать-INF=Q потом 1SG уметь-NPST-1SG такой-вещь женщина человек весь уметь-NPST-3PL делать-INF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>такой-вещь делать-INF=Q 2DU это наверное NEG=уметь-NPST-2DU хлеб делать-INF=Q потом 1SG уметь-NPST-1SG такой-вещь женщина человек весь уметь-NPST-3PL делать-INF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8664,17 +8664,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1220" TIME_SLOT_REF1="ts2396" TIME_SLOT_REF2="ts2400">
-                <ANNOTATION_VALUE>этот дом-LOC ADD увидеть-ASP-NPST-1SG некоторый время-LOC весь уметь-NPST-3PL женщина-PL женщина-PL=SQ шить-INF шить-INF NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>этот дом-LOC ADD увидеть-ASP-NPST-1SG некоторый время-LOC весь уметь-NPST-3PL женщина-PL женщина-PL=Q шить-INF шить-INF NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1222" TIME_SLOT_REF1="ts2404" TIME_SLOT_REF2="ts2408">
-                <ANNOTATION_VALUE>просто ткань=SQ NEG.PRED стол ткань=SQ NEG.PRED манси женщина-PL кровать манси женщина-PL только делать-INF такой-вещь упасть-ASP?-NPST-3PL ханты-PL ADD уметь-NPST-3PL ханты-PL ADD ADD хорошо манси платье=Q</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>просто ткань=Q NEG.PRED стол ткань=Q NEG.PRED манси женщина-PL кровать манси женщина-PL только делать-INF такой-вещь упасть-ASP?-NPST-3PL ханты-PL ADD уметь-NPST-3PL ханты-PL ADD ADD хорошо манси платье=Q</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1226" TIME_SLOT_REF1="ts2412" TIME_SLOT_REF2="ts2416">
-                <ANNOTATION_VALUE>NEG.PRED шапка платье унты вещь делать-NPST-3PL потом правда-CAR PTCL=хвастаться-PASS[NPST]-3PL правда-CAR мочь-NPST-2DU делать-INF научиться-ASP-MIR.PST-2DU</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>NEG.PRED шапка платье унты вещь делать-NPST-3PL потом правда-CAR PTCL=хвастаться-PASS[NPST]-3PL правда-CAR мочь-NPST-2DU мочь-NPST-2DU делать-INF научиться-ASP-MIR.PST-2DU</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8694,7 +8694,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1232" TIME_SLOT_REF1="ts2444" TIME_SLOT_REF2="ts2448">
-                <ANNOTATION_VALUE>это земля земля лес-LOC сходить-ASP-NMZ мужчина-PL каждый год PTCL вот.тот PTCL ждать-NPST-SG.O.3PL.S 3SG-POSS.3SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это земля земля лес-LOC сходить-ASP-NMZ мужчина-PL каждый каждый год PTCL тот PTCL ждать-NPST-SG/PL.O.3PL.S 3SG-POSS.3SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
