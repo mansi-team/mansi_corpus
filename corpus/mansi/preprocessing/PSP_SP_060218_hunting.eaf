@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
 <ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-03-26T10:31:12+03:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/PSP_SP_060218_hunting.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./PSP_SP_060218_hunting.wav" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/&#1075;&#1083;&#1086;&#1089;&#1089;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1077; &#1042;&#1051;/&#1101;&#1083;&#1072;&#1085;&#1099;/&#1074;&#1099;&#1074;&#1077;&#1088;&#1082;&#1072; 30/PSP_SP_060218_hunting.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./PSP_SP_060218_hunting.wav" />
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:03716180-a643-4804-9f28-2aea2a9645ad</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">26</PROPERTY>
     </HEADER>
@@ -62,17 +61,17 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Mansi">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>am wōrt jōmijtējm tōɕs kūt'uwl n'oxs alijlalējm ɕopər</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am wo&#772;rt jo&#772;mijte&#772;jm to&#772;&#597;s ku&#772;t'uwl n'oxs alijlale&#772;jm &#597;op&#601;r</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>tēli ōs kērn'al' ūnttalējm takwsi n'oxs kojejm alijlalējm</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>te&#772;li o&#772;s ke&#772;rn'al' u&#772;nttale&#772;jm takwsi n'oxs kojejm alijlale&#772;jm</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
-                <ANNOTATION_VALUE>sōrp taj at wāɕintalēɣum </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>so&#772;rp taj at wa&#772;&#597;intale&#772;&#611;um </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -82,12 +81,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
-                <ANNOTATION_VALUE>tōɕs медведь waɕintalējm wōrt takem piliɕmaŋ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to&#772;&#597;s &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; wa&#597;intale&#772;jm wo&#772;rt takem pili&#597;ma&#331;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>am xosat tājl wōrajējm wōrt jōmijtējm anumn jomas jōmijtaŋkw wōrt </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am xosat ta&#772;jl wo&#772;raje&#772;jm wo&#772;rt jo&#772;mijte&#772;jm anumn jomas jo&#772;mijta&#331;kw wo&#772;rt </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -97,103 +96,103 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts49">
-                <ANNOTATION_VALUE>am saka kāsaɕējum wōrt jōmijtaŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am saka ka&#772;sa&#597;e&#772;jum wo&#772;rt jo&#772;mijta&#331;kw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Russian">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>я в лесу хожу, иногда собакой соболя добываю, глухаря </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1103; &#1074; &#1083;&#1077;&#1089;&#1091; &#1093;&#1086;&#1078;&#1091;, &#1080;&#1085;&#1086;&#1075;&#1076;&#1072; &#1089;&#1086;&#1073;&#1072;&#1082;&#1086;&#1081; &#1089;&#1086;&#1073;&#1086;&#1083;&#1103; &#1076;&#1086;&#1073;&#1099;&#1074;&#1072;&#1102;, &#1075;&#1083;&#1091;&#1093;&#1072;&#1088;&#1103; </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>а зимой капканы ставлю, (поздней) осенью (в ноябре) соболя троплю, добываю </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1072; &#1079;&#1080;&#1084;&#1086;&#1081; &#1082;&#1072;&#1087;&#1082;&#1072;&#1085;&#1099; &#1089;&#1090;&#1072;&#1074;&#1083;&#1102;, (&#1087;&#1086;&#1079;&#1076;&#1085;&#1077;&#1081;) &#1086;&#1089;&#1077;&#1085;&#1100;&#1102; (&#1074; &#1085;&#1086;&#1103;&#1073;&#1088;&#1077;) &#1089;&#1086;&#1073;&#1086;&#1083;&#1103; &#1090;&#1088;&#1086;&#1087;&#1083;&#1102;, &#1076;&#1086;&#1073;&#1099;&#1074;&#1072;&#1102; </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>лося та не видела ещё</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1083;&#1086;&#1089;&#1103; &#1090;&#1072; &#1085;&#1077; &#1074;&#1080;&#1076;&#1077;&#1083;&#1072; &#1077;&#1097;&#1105;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>иногда медведя вижу в лесу, так боязно становится </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1080;&#1085;&#1086;&#1075;&#1076;&#1072; &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1103; &#1074;&#1080;&#1078;&#1091; &#1074; &#1083;&#1077;&#1089;&#1091;, &#1090;&#1072;&#1082; &#1073;&#1086;&#1103;&#1079;&#1085;&#1086; &#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1080;&#1090;&#1089;&#1103; </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>я издавна охочусь, в лесу хожу, мне хорошо ходить в лесу </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1103; &#1080;&#1079;&#1076;&#1072;&#1074;&#1085;&#1072; &#1086;&#1093;&#1086;&#1095;&#1091;&#1089;&#1100;, &#1074; &#1083;&#1077;&#1089;&#1091; &#1093;&#1086;&#1078;&#1091;, &#1084;&#1085;&#1077; &#1093;&#1086;&#1088;&#1086;&#1096;&#1086; &#1093;&#1086;&#1076;&#1080;&#1090;&#1100; &#1074; &#1083;&#1077;&#1089;&#1091; </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts50">
-                <ANNOTATION_VALUE>я очень люблю в лесу ходить </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1103; &#1086;&#1095;&#1077;&#1085;&#1100; &#1083;&#1102;&#1073;&#1083;&#1102; &#1074; &#1083;&#1077;&#1089;&#1091; &#1093;&#1086;&#1076;&#1080;&#1090;&#1100; </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Morphemes">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>am wōr-t jōm-iɣt-ēɣ-um tō-ɕos kūt'uw-əl n'oxs al-iɣl-al-ēɣ-um ɕopər</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am wo&#772;r-t jo&#772;m-i&#611;t-e&#772;&#611;-um to&#772;&#597;os ku&#772;t'uw-&#601;l n'oxs al-i&#611;l-al-e&#772;&#611;-um &#597;op&#601;r </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>tēli ōs kērn'al' ūnt-t-al-ēɣ-um takwsi n'oxs koj-eɣ-um al-iɣl-al-ēɣ-um</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>te&#772;li o&#772;s ke&#772;rn'al' u&#772;nt-t-al-e&#772;&#611;-um takwsi n'oxs koj-e&#611;-um al-i&#611;l-al-e&#772;&#611;-um</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>sōrp taj at=wāɕint-al-ēɣ-um </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>so&#772;rp taj at=wa&#772;&#597;int-al-e&#772;&#611;-um </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts33">
-                <ANNOTATION_VALUE>tō-ɕos медведь waɕint-al-ēɣ-um wōr-t ta-kem piliɕma-ŋ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to&#772;&#597;os &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; wa&#597;int-al-e&#772;&#611;-um wo&#772;r-t ta-kem pili&#597;ma-&#331;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts41">
-                <ANNOTATION_VALUE>am xosa-t tāɣəl wōraj-ēɣ-um wōr-t jōm-iɣt-ēɣ-um anum-n jomas jōm-iɣt-aŋkw wōr-t </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am xosa-t ta&#772;&#611;&#601;l wo&#772;raj-e&#772;&#611;-um wo&#772;r-t jo&#772;m-i&#611;t-e&#772;&#611;-um anum-n jomas jo&#772;m-i&#611;t-a&#331;kw wo&#772;r-t </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts51">
-                <ANNOTATION_VALUE>am saka kāsaɕ-ēɣ-um wōr-t jōm-iɣt-aŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am saka ka&#772;sa&#597;-e&#772;&#611;-um wo&#772;r-t jo&#772;m-i&#611;t-a&#331;kw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Glosses">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>1SG лес-LOC шагать-ASP-NPST-1SG иногда собака-INS соболь убить-ASP-ASP-NPST-1SG глухарь</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1SG &#1083;&#1077;&#1089;-LOC &#1096;&#1072;&#1075;&#1072;&#1090;&#1100;-ASP-NPST-1SG &#1080;&#1085;&#1086;&#1075;&#1076;&#1072; &#1089;&#1086;&#1073;&#1072;&#1082;&#1072;-INS &#1089;&#1086;&#1073;&#1086;&#1083;&#1100; &#1091;&#1073;&#1080;&#1090;&#1100;-ASP-ASP-NPST-1SG &#1075;&#1083;&#1091;&#1093;&#1072;&#1088;&#1100;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>зимой ADD капкан сесть-TR-ASP-NPST-1SG осенью соболь выслеживать-NPST-1SG убить-ASP-ASP-NPST-1SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1079;&#1080;&#1084;&#1086;&#1081; ADD &#1082;&#1072;&#1087;&#1082;&#1072;&#1085; &#1089;&#1077;&#1089;&#1090;&#1100;-TR-ASP-NPST-1SG &#1086;&#1089;&#1077;&#1085;&#1100;&#1102; &#1089;&#1086;&#1073;&#1086;&#1083;&#1100; &#1074;&#1099;&#1089;&#1083;&#1077;&#1078;&#1080;&#1074;&#1072;&#1090;&#1100;-NPST-1SG &#1091;&#1073;&#1080;&#1090;&#1100;-ASP-ASP-NPST-1SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>лось это NEG=встретить-ASP-NPST-1SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1083;&#1086;&#1089;&#1100; &#1101;&#1090;&#1086; NEG=&#1074;&#1089;&#1090;&#1088;&#1077;&#1090;&#1080;&#1090;&#1100;-ASP-NPST-1SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>иногда медведь встретить-ASP-NPST-1SG лес-LOC тот-APPR страх-PROP1</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1080;&#1085;&#1086;&#1075;&#1076;&#1072; &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; &#1074;&#1089;&#1090;&#1088;&#1077;&#1090;&#1080;&#1090;&#1100;-ASP-NPST-1SG &#1083;&#1077;&#1089;-LOC &#1090;&#1086;&#1090;-APPR &#1089;&#1090;&#1088;&#1072;&#1093;-PROP1</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>1SG долгий-LOC полностью охотиться-NPST-1SG лес-LOC шагать-ASP-NPST-1SG 1SG.OBL-LAT хороший шагать-ASP-INF лес-LOC</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1SG &#1076;&#1086;&#1083;&#1075;&#1080;&#1081;-LOC &#1087;&#1086;&#1083;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102; &#1086;&#1093;&#1086;&#1090;&#1080;&#1090;&#1100;&#1089;&#1103;-NPST-1SG &#1083;&#1077;&#1089;-LOC &#1096;&#1072;&#1075;&#1072;&#1090;&#1100;-ASP-NPST-1SG 1SG.OBL-LAT &#1093;&#1086;&#1088;&#1086;&#1096;&#1080;&#1081; &#1096;&#1072;&#1075;&#1072;&#1090;&#1100;-ASP-INF &#1083;&#1077;&#1089;-LOC</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE>1SG очень любить-NPST-1SG лес-LOC шагать-ASP-INF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1SG &#1086;&#1095;&#1077;&#1085;&#1100; &#1083;&#1102;&#1073;&#1080;&#1090;&#1100;-NPST-1SG &#1083;&#1077;&#1089;-LOC &#1096;&#1072;&#1075;&#1072;&#1090;&#1100;-ASP-INF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>

@@ -1,7 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
 <ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-03-23T11:38:56+03:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/TMV_DZh_SP_240717_medvezhijprazdnik.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./TMV_DZh_SP_240717_medvezhijprazdnik.wav" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/&#1075;&#1083;&#1086;&#1089;&#1089;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1077; &#1042;&#1051;/&#1101;&#1083;&#1072;&#1085;&#1099;/&#1074;&#1099;&#1074;&#1077;&#1088;&#1082;&#1072; 30/TMV_DZh_SP_240717_medvezhijprazdnik.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./TMV_DZh_SP_240717_medvezhijprazdnik.wav" />
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e5dff30-620b-46da-bbea-a97215c204f9</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">196</PROPERTY>
     </HEADER>
@@ -378,42 +377,42 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Mansi">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>pēs āpɕikēw kātna ti pattējt likmaltējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pe&#772;s a&#772;p&#597;ike&#772;w ka&#772;tna ti patte&#772;jt likmalte&#772;jt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>xun’ wōrna ti jalējt </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xun&#8217; wo&#772;rna ti jale&#772;jt </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts21">
-                <ANNOTATION_VALUE>juw joxtējət os </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>juw joxte&#772;j&#601;t os </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>tūjt ta juw... pāxwtēɣt pēs mānɕit </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tu&#772;jt ta juw... pa&#772;xwte&#772;&#611;t pe&#772;s ma&#772;n&#597;it </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts37">
-                <ANNOTATION_VALUE>медведь kosna patti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; kosna patti</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts45">
-                <ANNOTATION_VALUE>tuwəl ta wāwe apɕikēw xontasət</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw&#601;l ta wa&#772;we ap&#597;ike&#772;w xontas&#601;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts53">
-                <ANNOTATION_VALUE>tuwəl juw totjanəl os</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw&#601;l juw totjan&#601;l os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts61">
-                <ANNOTATION_VALUE>pisal'əl suj wārejt ēkwa n'ilaɕos</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pisal'&#601;l suj wa&#772;rejt e&#772;kwa n'ila&#597;os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -423,461 +422,461 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts77">
-                <ANNOTATION_VALUE>pijriɕ os at</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pijri&#597; os at</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts85">
-                <ANNOTATION_VALUE>atɕos taj pijriɕ taj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>at&#597;os taj pijri&#597; taj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts93">
-                <ANNOTATION_VALUE>atɕos pātamti noxal'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>at&#597;os pa&#772;tamti noxal'</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts101">
-                <ANNOTATION_VALUE>tōrumna pāɕalaxti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to&#772;rumna pa&#772;&#597;alaxti</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts109">
-                <ANNOTATION_VALUE>что tōrum mis</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1095;&#1090;&#1086; to&#772;rum mis</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts117">
-                <ANNOTATION_VALUE>tuwəl ta jīkwuŋkw patēɣt juw tūlawe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw&#601;l ta ji&#772;kwu&#331;kw pate&#772;&#611;t juw tu&#772;lawe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts125">
-                <ANNOTATION_VALUE>sāŋkwəltējət</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;lte&#772;j&#601;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts133">
-                <ANNOTATION_VALUE>paɕa xum ɕalti os</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pa&#597;a xum &#597;alti os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts141">
-                <ANNOTATION_VALUE>sās n'ol tiɕir маска wāreɣt man matər</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;s n'ol ti&#597;ir &#1084;&#1072;&#1089;&#1082;&#1072; wa&#772;re&#611;t man mat&#601;r</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts149">
-                <ANNOTATION_VALUE>ну tūləjlaxtējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1085;&#1091; tu&#772;l&#601;jlaxte&#772;jt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts157">
-                <ANNOTATION_VALUE>tān kon minēɣt tuwəl os ta jīkweɣt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta&#772;n kon mine&#772;&#611;t tuw&#601;l os ta ji&#772;kwe&#611;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts165">
-                <ANNOTATION_VALUE>ēkwat man ōjkat jīkwējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e&#772;kwat man o&#772;jkat ji&#772;kwe&#772;jt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts173">
-                <ANNOTATION_VALUE>nēnəl nēɣlum tān</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ne&#772;n&#601;l ne&#772;&#611;lum ta&#772;n</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts181">
-                <ANNOTATION_VALUE>xun' taji sāŋkwəltawe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xun' taji sa&#772;&#331;kw&#601;ltawe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts189">
-                <ANNOTATION_VALUE>ta jīkwējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta ji&#772;kwe&#772;jt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts197">
-                <ANNOTATION_VALUE>xum tān os taj ōjkat pījriɕit jīkwējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xum ta&#772;n os taj o&#772;jkat pi&#772;jri&#597;it ji&#772;kwe&#772;jt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts205">
-                <ANNOTATION_VALUE>nē tān taj os ēkwat jīkwējt... taɕir</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ne&#772; ta&#772;n taj os e&#772;kwat ji&#772;kwe&#772;jt... ta&#597;ir</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts213">
-                <ANNOTATION_VALUE>общий tān taj ti sāŋkwəltaŋkw patawe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1086;&#1073;&#1097;&#1080;&#1081; ta&#772;n taj ti sa&#772;&#331;kw&#601;lta&#331;kw patawe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts217" TIME_SLOT_REF2="ts221">
-                <ANNOTATION_VALUE>taj ēkwat ōjkat n'āwramt man āɣiriɕit pussən jīkwējt xun' медведь праздник porat</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taj e&#772;kwat o&#772;jkat n'a&#772;wramt man a&#772;&#611;iri&#597;it puss&#601;n ji&#772;kwe&#772;jt xun' &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; &#1087;&#1088;&#1072;&#1079;&#1076;&#1085;&#1080;&#1082; porat</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts225" TIME_SLOT_REF2="ts229">
-                <ANNOTATION_VALUE>pussən jīkwējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>puss&#601;n ji&#772;kwe&#772;jt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts233" TIME_SLOT_REF2="ts237">
-                <ANNOTATION_VALUE>sāŋkwəltap jol pōjti tuwəl jol ta ūntēɣt potərtēɣt mowintēɣt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;ltap jol po&#772;jti tuw&#601;l jol ta u&#772;nte&#772;&#611;t pot&#601;rte&#772;&#611;t mowinte&#772;&#611;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts245">
-                <ANNOTATION_VALUE>ōs manər? lāwen</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>o&#772;s man&#601;r? la&#772;wen</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts253">
-                <ANNOTATION_VALUE>sāŋkwəltap jīwəl wārawe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;ltap ji&#772;w&#601;l wa&#772;rawe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts257" TIME_SLOT_REF2="ts261">
-                <ANNOTATION_VALUE>tamle ūl'pa jīw ōnxəŋ wos tuwəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tamle u&#772;l'pa ji&#772;w o&#772;nx&#601;&#331; wos tuw&#601;l</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts265" TIME_SLOT_REF2="ts269">
-                <ANNOTATION_VALUE>sājrawe wōŋxaj tiɕir</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;jrawe wo&#772;&#331;xaj ti&#597;ir</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts273" TIME_SLOT_REF2="ts277">
-                <ANNOTATION_VALUE>tānəl wārawe kērtan ōɕɕa kērtan</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta&#772;n&#601;l wa&#772;rawe ke&#772;rtan o&#772;&#597;&#597;a ke&#772;rtan</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts281" TIME_SLOT_REF2="ts285">
-                <ANNOTATION_VALUE>ну раньше не все умели sāŋkwəltap wāruŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1085;&#1091; &#1088;&#1072;&#1085;&#1100;&#1096;&#1077; &#1085;&#1077; &#1074;&#1089;&#1077; &#1091;&#1084;&#1077;&#1083;&#1080; sa&#772;&#331;kw&#601;ltap wa&#772;ru&#331;kw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts289" TIME_SLOT_REF2="ts293">
-                <ANNOTATION_VALUE>xotjut mōrsəŋ кто xāsi wāruŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xotjut mo&#772;rs&#601;&#331; &#1082;&#1090;&#1086; xa&#772;si wa&#772;ru&#331;kw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts297" TIME_SLOT_REF2="ts301">
-                <ANNOTATION_VALUE>pussən at xassət mōrsəŋ кто xāsi sāŋkwəltaŋkw mān'ɕi sāŋkwəltapəl </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>puss&#601;n at xass&#601;t mo&#772;rs&#601;&#331; &#1082;&#1090;&#1086; xa&#772;si sa&#772;&#331;kw&#601;lta&#331;kw ma&#772;n'&#597;i sa&#772;&#331;kw&#601;ltap&#601;l </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts305" TIME_SLOT_REF2="ts309">
-                <ANNOTATION_VALUE>taj pēs ērjəsət</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taj pe&#772;s e&#772;rj&#601;s&#601;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts313" TIME_SLOT_REF2="ts317">
-                <ANNOTATION_VALUE>paɕa xum ērij os ērjawe xūn' juw ti ɕalti sās n'oləl tūləjlaxtējt</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pa&#597;a xum e&#772;rij os e&#772;rjawe xu&#772;n' juw ti &#597;alti sa&#772;s n'ol&#601;l tu&#772;l&#601;jlaxte&#772;jt</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts321" TIME_SLOT_REF2="ts325">
-                <ANNOTATION_VALUE>paɕa xum ērjuŋkw patawe, āwi ta lōxi, juw ta ɕaltapi sās n'oləl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pa&#597;a xum e&#772;rju&#331;kw patawe, a&#772;wi ta lo&#772;xi, juw ta &#597;altapi sa&#772;s n'ol&#601;l</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts329" TIME_SLOT_REF2="ts333">
-                <ANNOTATION_VALUE>sāŋkwəltaŋkw patawe ta jīkwi tuwəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;lta&#331;kw patawe ta ji&#772;kwi tuw&#601;l</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts337" TIME_SLOT_REF2="ts341">
-                <ANNOTATION_VALUE>xum tān, xumit jīkwējt, ēkwa tān</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xum ta&#772;n, xumit ji&#772;kwe&#772;jt, e&#772;kwa ta&#772;n</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts345" TIME_SLOT_REF2="ts349">
-                <ANNOTATION_VALUE>ōli jīkwuŋkw os</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>o&#772;li ji&#772;kwu&#331;kw os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts353" TIME_SLOT_REF2="ts357">
-                <ANNOTATION_VALUE>jomas sup masējt, l'il'pi sup, taml'e jomas  </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jomas sup mase&#772;jt, l'il'pi sup, taml'e jomas  </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts361" TIME_SLOT_REF2="ts365">
-                <ANNOTATION_VALUE>jīkwējt tōrəl pinxatējt ēkwat</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ji&#772;kwe&#772;jt to&#772;r&#601;l pinxate&#772;jt e&#772;kwat</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Russian">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>Раньше медведя добывали, стреляли, </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1056;&#1072;&#1085;&#1100;&#1096;&#1077; &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1103; &#1076;&#1086;&#1073;&#1099;&#1074;&#1072;&#1083;&#1080;, &#1089;&#1090;&#1088;&#1077;&#1083;&#1103;&#1083;&#1080;, </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>когда на охоту ходили.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1082;&#1086;&#1075;&#1076;&#1072; &#1085;&#1072; &#1086;&#1093;&#1086;&#1090;&#1091; &#1093;&#1086;&#1076;&#1080;&#1083;&#1080;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>Приходят домой и </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1055;&#1088;&#1080;&#1093;&#1086;&#1076;&#1103;&#1090; &#1076;&#1086;&#1084;&#1086;&#1081; &#1080; </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>Cнег домой (при входе)... кидали (обычай такой) раньше манси. </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>C&#1085;&#1077;&#1075; &#1076;&#1086;&#1084;&#1086;&#1081; (&#1087;&#1088;&#1080; &#1074;&#1093;&#1086;&#1076;&#1077;)... &#1082;&#1080;&#1076;&#1072;&#1083;&#1080; (&#1086;&#1073;&#1099;&#1095;&#1072;&#1081; &#1090;&#1072;&#1082;&#1086;&#1081;) &#1088;&#1072;&#1085;&#1100;&#1096;&#1077; &#1084;&#1072;&#1085;&#1089;&#1080;. </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>Медведя добыл,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1052;&#1077;&#1076;&#1074;&#1077;&#1076;&#1103; &#1076;&#1086;&#1073;&#1099;&#1083;,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>Потом понимают, что добыли медведя.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1055;&#1086;&#1090;&#1086;&#1084; &#1087;&#1086;&#1085;&#1080;&#1084;&#1072;&#1102;&#1090;, &#1095;&#1090;&#1086; &#1076;&#1086;&#1073;&#1099;&#1083;&#1080; &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1103;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts54">
-                <ANNOTATION_VALUE>Потом его домой приносят и</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1055;&#1086;&#1090;&#1086;&#1084; &#1077;&#1075;&#1086; &#1076;&#1086;&#1084;&#1086;&#1081; &#1087;&#1088;&#1080;&#1085;&#1086;&#1089;&#1103;&#1090; &#1080;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts62">
-                <ANNOTATION_VALUE>Из ружья стреляют, если медведица --  4 раза</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1048;&#1079; &#1088;&#1091;&#1078;&#1100;&#1103; &#1089;&#1090;&#1088;&#1077;&#1083;&#1103;&#1102;&#1090;, &#1077;&#1089;&#1083;&#1080; &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1080;&#1094;&#1072; --  4 &#1088;&#1072;&#1079;&#1072;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>выстрел ружья слышен.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1074;&#1099;&#1089;&#1090;&#1088;&#1077;&#1083; &#1088;&#1091;&#1078;&#1100;&#1103; &#1089;&#1083;&#1099;&#1096;&#1077;&#1085;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts78">
-                <ANNOTATION_VALUE>Если самец -- пять.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1045;&#1089;&#1083;&#1080; &#1089;&#1072;&#1084;&#1077;&#1094; -- &#1087;&#1103;&#1090;&#1100;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts86">
-                <ANNOTATION_VALUE>Пять раз это самец это...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1055;&#1103;&#1090;&#1100; &#1088;&#1072;&#1079; &#1101;&#1090;&#1086; &#1089;&#1072;&#1084;&#1077;&#1094; &#1101;&#1090;&#1086;...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts94">
-                <ANNOTATION_VALUE>Пять раз выстрелит вверх.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1055;&#1103;&#1090;&#1100; &#1088;&#1072;&#1079; &#1074;&#1099;&#1089;&#1090;&#1088;&#1077;&#1083;&#1080;&#1090; &#1074;&#1074;&#1077;&#1088;&#1093;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts102">
-                <ANNOTATION_VALUE>Здоровается с Богом,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1047;&#1076;&#1086;&#1088;&#1086;&#1074;&#1072;&#1077;&#1090;&#1089;&#1103; &#1089; &#1041;&#1086;&#1075;&#1086;&#1084;,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts110">
-                <ANNOTATION_VALUE>что Бог дал.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1095;&#1090;&#1086; &#1041;&#1086;&#1075; &#1076;&#1072;&#1083;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts118">
-                <ANNOTATION_VALUE>Потом начинают плясать, домой заносят.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1055;&#1086;&#1090;&#1086;&#1084; &#1085;&#1072;&#1095;&#1080;&#1085;&#1072;&#1102;&#1090; &#1087;&#1083;&#1103;&#1089;&#1072;&#1090;&#1100;, &#1076;&#1086;&#1084;&#1086;&#1081; &#1079;&#1072;&#1085;&#1086;&#1089;&#1103;&#1090;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts122" TIME_SLOT_REF2="ts126">
-                <ANNOTATION_VALUE>Играют на санквылтапе.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1048;&#1075;&#1088;&#1072;&#1102;&#1090; &#1085;&#1072; &#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts134">
-                <ANNOTATION_VALUE>Заходит сказочный персонаж и</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1047;&#1072;&#1093;&#1086;&#1076;&#1080;&#1090; &#1089;&#1082;&#1072;&#1079;&#1086;&#1095;&#1085;&#1099;&#1081; &#1087;&#1077;&#1088;&#1089;&#1086;&#1085;&#1072;&#1078; &#1080;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts142">
-                <ANNOTATION_VALUE>берястяной нос... Так маску делают или что...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1073;&#1077;&#1088;&#1103;&#1089;&#1090;&#1103;&#1085;&#1086;&#1081; &#1085;&#1086;&#1089;... &#1058;&#1072;&#1082; &#1084;&#1072;&#1089;&#1082;&#1091; &#1076;&#1077;&#1083;&#1072;&#1102;&#1090; &#1080;&#1083;&#1080; &#1095;&#1090;&#1086;...</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts150">
-                <ANNOTATION_VALUE>Ну, делают сценки.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1053;&#1091;, &#1076;&#1077;&#1083;&#1072;&#1102;&#1090; &#1089;&#1094;&#1077;&#1085;&#1082;&#1080;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts158">
-                <ANNOTATION_VALUE>Они выходят на улицу и пляшут. </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1054;&#1085;&#1080; &#1074;&#1099;&#1093;&#1086;&#1076;&#1103;&#1090; &#1085;&#1072; &#1091;&#1083;&#1080;&#1094;&#1091; &#1080; &#1087;&#1083;&#1103;&#1096;&#1091;&#1090;. </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts162" TIME_SLOT_REF2="ts166">
-                <ANNOTATION_VALUE>Женщины и мужчины танцуют.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1046;&#1077;&#1085;&#1097;&#1080;&#1085;&#1099; &#1080; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1099; &#1090;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts174">
-                <ANNOTATION_VALUE>Женская мелодия,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1046;&#1077;&#1085;&#1089;&#1082;&#1072;&#1103; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103;,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts178" TIME_SLOT_REF2="ts182">
-                <ANNOTATION_VALUE>когда её играют,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1082;&#1086;&#1075;&#1076;&#1072; &#1077;&#1105; &#1080;&#1075;&#1088;&#1072;&#1102;&#1090;,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts186" TIME_SLOT_REF2="ts190">
-                <ANNOTATION_VALUE>танцуют (женщины).</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1090;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090; (&#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1099;).</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts194" TIME_SLOT_REF2="ts198">
-                <ANNOTATION_VALUE>Мужская мелодия -- тогда мужчины, мальчики танцуют.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1052;&#1091;&#1078;&#1089;&#1082;&#1072;&#1103; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103; -- &#1090;&#1086;&#1075;&#1076;&#1072; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1099;, &#1084;&#1072;&#1083;&#1100;&#1095;&#1080;&#1082;&#1080; &#1090;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts202" TIME_SLOT_REF2="ts206">
-                <ANNOTATION_VALUE>Женская мелодия -- женщины танцуют... так.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1046;&#1077;&#1085;&#1089;&#1082;&#1072;&#1103; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103; -- &#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1099; &#1090;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090;... &#1090;&#1072;&#1082;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts210" TIME_SLOT_REF2="ts214">
-                <ANNOTATION_VALUE>Общую мелодию-то заиграют, </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1054;&#1073;&#1097;&#1091;&#1102; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1102;-&#1090;&#1086; &#1079;&#1072;&#1080;&#1075;&#1088;&#1072;&#1102;&#1090;, </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts222">
-                <ANNOTATION_VALUE>Женщины, мужчины, дети и девочки, все танцуют, медвежий праздник когда.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1046;&#1077;&#1085;&#1097;&#1080;&#1085;&#1099;, &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1099;, &#1076;&#1077;&#1090;&#1080; &#1080; &#1076;&#1077;&#1074;&#1086;&#1095;&#1082;&#1080;, &#1074;&#1089;&#1077; &#1090;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090;, &#1084;&#1077;&#1076;&#1074;&#1077;&#1078;&#1080;&#1081; &#1087;&#1088;&#1072;&#1079;&#1076;&#1085;&#1080;&#1082; &#1082;&#1086;&#1075;&#1076;&#1072;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts226" TIME_SLOT_REF2="ts230">
-                <ANNOTATION_VALUE>Все танцуют.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1042;&#1089;&#1077; &#1090;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts234" TIME_SLOT_REF2="ts240">
-                <ANNOTATION_VALUE>Санквылтап останавливается, потом садятся, разговаривают, смеются.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1057;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087; &#1086;&#1089;&#1090;&#1072;&#1085;&#1072;&#1074;&#1083;&#1080;&#1074;&#1072;&#1077;&#1090;&#1089;&#1103;, &#1087;&#1086;&#1090;&#1086;&#1084; &#1089;&#1072;&#1076;&#1103;&#1090;&#1089;&#1103;, &#1088;&#1072;&#1079;&#1075;&#1086;&#1074;&#1072;&#1088;&#1080;&#1074;&#1072;&#1102;&#1090;, &#1089;&#1084;&#1077;&#1102;&#1090;&#1089;&#1103;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts242" TIME_SLOT_REF2="ts246">
-                <ANNOTATION_VALUE>Ещё что? Говорите.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1045;&#1097;&#1105; &#1095;&#1090;&#1086;? &#1043;&#1086;&#1074;&#1086;&#1088;&#1080;&#1090;&#1077;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts250" TIME_SLOT_REF2="ts254">
-                <ANNOTATION_VALUE>Санквылтап делают из дерева.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1057;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087; &#1076;&#1077;&#1083;&#1072;&#1102;&#1090; &#1080;&#1079; &#1076;&#1077;&#1088;&#1077;&#1074;&#1072;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts258" TIME_SLOT_REF2="ts262">
-                <ANNOTATION_VALUE>Из такого кедра, чтобы смолистый был, потом</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1048;&#1079; &#1090;&#1072;&#1082;&#1086;&#1075;&#1086; &#1082;&#1077;&#1076;&#1088;&#1072;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1089;&#1084;&#1086;&#1083;&#1080;&#1089;&#1090;&#1099;&#1081; &#1073;&#1099;&#1083;, &#1087;&#1086;&#1090;&#1086;&#1084;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts266" TIME_SLOT_REF2="ts270">
-                <ANNOTATION_VALUE>Рубят углублённо так,</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1056;&#1091;&#1073;&#1103;&#1090; &#1091;&#1075;&#1083;&#1091;&#1073;&#1083;&#1105;&#1085;&#1085;&#1086; &#1090;&#1072;&#1082;,</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts274" TIME_SLOT_REF2="ts278">
-                <ANNOTATION_VALUE>Струны делают из проволоки, тонкой проволоки.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1057;&#1090;&#1088;&#1091;&#1085;&#1099; &#1076;&#1077;&#1083;&#1072;&#1102;&#1090; &#1080;&#1079; &#1087;&#1088;&#1086;&#1074;&#1086;&#1083;&#1086;&#1082;&#1080;, &#1090;&#1086;&#1085;&#1082;&#1086;&#1081; &#1087;&#1088;&#1086;&#1074;&#1086;&#1083;&#1086;&#1082;&#1080;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts282" TIME_SLOT_REF2="ts286">
-                <ANNOTATION_VALUE>Ну раньше не все умели мастерить санквылтап.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1053;&#1091; &#1088;&#1072;&#1085;&#1100;&#1096;&#1077; &#1085;&#1077; &#1074;&#1089;&#1077; &#1091;&#1084;&#1077;&#1083;&#1080; &#1084;&#1072;&#1089;&#1090;&#1077;&#1088;&#1080;&#1090;&#1100; &#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts290" TIME_SLOT_REF2="ts294">
-                <ANNOTATION_VALUE>Редко кто умеет делать. </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1056;&#1077;&#1076;&#1082;&#1086; &#1082;&#1090;&#1086; &#1091;&#1084;&#1077;&#1077;&#1090; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;. </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts298" TIME_SLOT_REF2="ts302">
-                <ANNOTATION_VALUE>Не все умели, редко кто умеет играть на мансийском санквылтапе.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1053;&#1077; &#1074;&#1089;&#1077; &#1091;&#1084;&#1077;&#1083;&#1080;, &#1088;&#1077;&#1076;&#1082;&#1086; &#1082;&#1090;&#1086; &#1091;&#1084;&#1077;&#1077;&#1090; &#1080;&#1075;&#1088;&#1072;&#1090;&#1100; &#1085;&#1072; &#1084;&#1072;&#1085;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1084; &#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts306" TIME_SLOT_REF2="ts310">
-                <ANNOTATION_VALUE>Раньше-то пели.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1056;&#1072;&#1085;&#1100;&#1096;&#1077;-&#1090;&#1086; &#1087;&#1077;&#1083;&#1080;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts314" TIME_SLOT_REF2="ts318">
-                <ANNOTATION_VALUE>Поют песню о герое в берестяной маске (который развлекает народ на медвежем празднике), когда домой заходит, делают сценки в берестяных масках.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1055;&#1086;&#1102;&#1090; &#1087;&#1077;&#1089;&#1085;&#1102; &#1086; &#1075;&#1077;&#1088;&#1086;&#1077; &#1074; &#1073;&#1077;&#1088;&#1077;&#1089;&#1090;&#1103;&#1085;&#1086;&#1081; &#1084;&#1072;&#1089;&#1082;&#1077; (&#1082;&#1086;&#1090;&#1086;&#1088;&#1099;&#1081; &#1088;&#1072;&#1079;&#1074;&#1083;&#1077;&#1082;&#1072;&#1077;&#1090; &#1085;&#1072;&#1088;&#1086;&#1076; &#1085;&#1072; &#1084;&#1077;&#1076;&#1074;&#1077;&#1078;&#1077;&#1084; &#1087;&#1088;&#1072;&#1079;&#1076;&#1085;&#1080;&#1082;&#1077;), &#1082;&#1086;&#1075;&#1076;&#1072; &#1076;&#1086;&#1084;&#1086;&#1081; &#1079;&#1072;&#1093;&#1086;&#1076;&#1080;&#1090;, &#1076;&#1077;&#1083;&#1072;&#1102;&#1090; &#1089;&#1094;&#1077;&#1085;&#1082;&#1080; &#1074; &#1073;&#1077;&#1088;&#1077;&#1089;&#1090;&#1103;&#1085;&#1099;&#1093; &#1084;&#1072;&#1089;&#1082;&#1072;&#1093;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a98" TIME_SLOT_REF1="ts322" TIME_SLOT_REF2="ts326">
-                <ANNOTATION_VALUE>Начинают петь песню про человека в маске, он стучит в дверь, забегает домой в маске берестяной. </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1053;&#1072;&#1095;&#1080;&#1085;&#1072;&#1102;&#1090; &#1087;&#1077;&#1090;&#1100; &#1087;&#1077;&#1089;&#1085;&#1102; &#1087;&#1088;&#1086; &#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1082;&#1072; &#1074; &#1084;&#1072;&#1089;&#1082;&#1077;, &#1086;&#1085; &#1089;&#1090;&#1091;&#1095;&#1080;&#1090; &#1074; &#1076;&#1074;&#1077;&#1088;&#1100;, &#1079;&#1072;&#1073;&#1077;&#1075;&#1072;&#1077;&#1090; &#1076;&#1086;&#1084;&#1086;&#1081; &#1074; &#1084;&#1072;&#1089;&#1082;&#1077; &#1073;&#1077;&#1088;&#1077;&#1089;&#1090;&#1103;&#1085;&#1086;&#1081;. </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts330" TIME_SLOT_REF2="ts334">
-                <ANNOTATION_VALUE>Начнешь играть на санквылтапе, он пляшет тогда.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1053;&#1072;&#1095;&#1085;&#1077;&#1096;&#1100; &#1080;&#1075;&#1088;&#1072;&#1090;&#1100; &#1085;&#1072; &#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;, &#1086;&#1085; &#1087;&#1083;&#1103;&#1096;&#1077;&#1090; &#1090;&#1086;&#1075;&#1076;&#1072;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts338" TIME_SLOT_REF2="ts342">
-                <ANNOTATION_VALUE>Мужская мелодия -- мужчины танцуют, женская мелодия... </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1052;&#1091;&#1078;&#1089;&#1082;&#1072;&#1103; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103; -- &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1099; &#1090;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090;, &#1078;&#1077;&#1085;&#1089;&#1082;&#1072;&#1103; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103;... </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102" TIME_SLOT_REF1="ts346" TIME_SLOT_REF2="ts350">
-                <ANNOTATION_VALUE>Есть танцевать ещё.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1045;&#1089;&#1090;&#1100; &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100; &#1077;&#1097;&#1105;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts354" TIME_SLOT_REF2="ts358">
-                <ANNOTATION_VALUE>Нарядную одежду надевают, новую одежду, такую хорошую.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1053;&#1072;&#1088;&#1103;&#1076;&#1085;&#1091;&#1102; &#1086;&#1076;&#1077;&#1078;&#1076;&#1091; &#1085;&#1072;&#1076;&#1077;&#1074;&#1072;&#1102;&#1090;, &#1085;&#1086;&#1074;&#1091;&#1102; &#1086;&#1076;&#1077;&#1078;&#1076;&#1091;, &#1090;&#1072;&#1082;&#1091;&#1102; &#1093;&#1086;&#1088;&#1086;&#1096;&#1091;&#1102;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts366">
-                <ANNOTATION_VALUE>Танцуют, платком накрываются женщины.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1058;&#1072;&#1085;&#1094;&#1091;&#1102;&#1090;, &#1087;&#1083;&#1072;&#1090;&#1082;&#1086;&#1084; &#1085;&#1072;&#1082;&#1088;&#1099;&#1074;&#1072;&#1102;&#1090;&#1089;&#1103; &#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1099;.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Morphemes">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a105" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>pēs āpɕi-kē-w kāt-na ti=pat-t-ēɣ-t likm-alt-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pe&#772;s a&#772;p&#597;i-ke&#772;w ka&#772;t-na ti=pat-t-e&#772;&#611;-t likm-alt-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a106" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>xūn' wōr-na ti=jal-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xun&#8217; wo&#772;r-na ti=jal-e&#772;&#611;-t </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>juw joxt-ēɣ-ət os </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>juw joxt-e&#772;&#611;-&#601;t os </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a108" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
-                <ANNOTATION_VALUE>tūjt ta juw pāxwt-ēɣ-t pēs mān'ɕi-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tu&#772;jt ta juw pa&#772;xwt-e&#772;&#611;-t pe&#772;s ma&#772;n&#597;i-t </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a109" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>медведь kos-na pat-t-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; kos-na pat-t-i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE>tuwəl ta=wā-we apɕi-kē-w xōnt-as-ət</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw&#601;l ta=wa&#772;-we ap&#597;i-ke&#772;w xont-as-&#601;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>tuwəl juw tot-ɣ-anəl os</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw&#601;l juw tot-&#611;-an&#601;l os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a112" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts63">
-                <ANNOTATION_VALUE>pisal'-əl suj wār-eɣ-t ēkwa n'ila-ɕos</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pisal'-&#601;l suj wa&#772;r-e&#611;-t e&#772;kwa n'ila-&#597;os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -887,419 +886,419 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts79">
-                <ANNOTATION_VALUE>piɣ-riɕ os at</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pi&#611;-ri&#597; os at</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a115" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts88">
-                <ANNOTATION_VALUE>at-ɕos taj piɣ-riɕ taj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>at-&#597;os taj pi&#611;-ri&#597; taj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts95">
-                <ANNOTATION_VALUE>at-ɕos pātamt-i nox-al'</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>at-&#597;os pa&#772;tamt-i nox-al'</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts103">
-                <ANNOTATION_VALUE>tōrum-na paɕa-l-axt-i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>to&#772;rum-na pa&#772;&#597;a-l-axt-i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts112">
-                <ANNOTATION_VALUE>что tōrum mi-s</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1095;&#1090;&#1086; to&#772;rum mi-s</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts119">
-                <ANNOTATION_VALUE>tuwəl ta=jīkw-uŋkw pat-ēɣ-t juw tūl-awe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw&#601;l ta=ji&#772;kw-u&#331;kw pat-e&#772;&#611;-t juw tu&#772;l-awe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts127">
-                <ANNOTATION_VALUE>sāŋkwəlt-ēɣ-ət</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;lt-e&#772;&#611;-&#601;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts135">
-                <ANNOTATION_VALUE>paɕa xum ɕalt-i os</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pa&#597;a xum &#597;alt-i os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts143">
-                <ANNOTATION_VALUE>sās n'ol ti-ɕir маска wār-eɣ-t man matər</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;s n'ol ti-&#597;ir &#1084;&#1072;&#1089;&#1082;&#1072; wa&#772;r-e&#611;-t man mat&#601;r</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts151">
-                <ANNOTATION_VALUE>ну tūliɣl-axt-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1085;&#1091; tu&#772;l&#601;&#611;l-axt-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts159">
-                <ANNOTATION_VALUE>tān kon min-ēɣ-t tuwəl os ta=jīkw-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta&#772;n kon min-e&#772;&#611;-t tuw&#601;l os ta=ji&#772;kw-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts167">
-                <ANNOTATION_VALUE>ēkwa-t man ōjka-t jīkw-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>e&#772;kwa-t man o&#772;jka-t ji&#772;kw-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts175">
-                <ANNOTATION_VALUE>nē-nəl nēɣl-um tān</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ne&#772;-n&#601;l ne&#772;&#611;l-um ta&#772;n</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts183">
-                <ANNOTATION_VALUE>xun' taji sāŋkwəlt-awe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xun' taji sa&#772;&#331;kw&#601;lt-awe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts191">
-                <ANNOTATION_VALUE>ta=jīkw-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta=ji&#772;kw-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts199">
-                <ANNOTATION_VALUE>xum tān os taj ōjka-t piɣ-riɕ-it jīkw-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xum ta&#772;n os taj o&#772;jka-t pi&#772;&#611;-ri&#597;-it ji&#772;kw-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts207">
-                <ANNOTATION_VALUE>nē tān taj os ēkwa-t jīkw-ēɣ-t ta-ɕir</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ne&#772; ta&#772;n taj os e&#772;kwa-t ji&#772;kw-e&#772;&#611;-t ta-&#597;ir</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts215">
-                <ANNOTATION_VALUE>общий tān taj ti=sāŋkwəlt-aŋkw pat-awe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1086;&#1073;&#1097;&#1080;&#1081; ta&#772;n taj ti=sa&#772;&#331;kw&#601;lt-a&#331;kw pat-awe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts219" TIME_SLOT_REF2="ts223">
-                <ANNOTATION_VALUE>taj ēkwa-t ōjka-t n'āwram-ət man āɣi-riɕ-it pussən jīkw-ēɣ-t xun' медведь праздник pora-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taj e&#772;kwa-t o&#772;jka-t n'a&#772;wram-&#601;t man a&#772;&#611;iri&#597;-it puss&#601;n ji&#772;kw-e&#772;&#611;-t xun' &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; &#1087;&#1088;&#1072;&#1079;&#1076;&#1085;&#1080;&#1082; pora-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts227" TIME_SLOT_REF2="ts231">
-                <ANNOTATION_VALUE>pussən jīkw-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>puss&#601;n ji&#772;kw-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts238">
-                <ANNOTATION_VALUE>sāŋkwəltap jol=pōjt-i tuwəl jol ta=ūnt-ēɣ-t potərt-ēɣ-t mōwin't-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;ltap jol=po&#772;jt-i tuw&#601;l jol ta=u&#772;nt-e&#772;&#611;-t pot&#601;rt-e&#772;&#611;-t mowint-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts247">
-                <ANNOTATION_VALUE>ōs manər lāw-en</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>o&#772;s man&#601;r la&#772;w-en</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts251" TIME_SLOT_REF2="ts255">
-                <ANNOTATION_VALUE>sāŋkwəltap jīw-əl wār-awe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;ltap ji&#772;w-&#601;l wa&#772;r-awe</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts259" TIME_SLOT_REF2="ts263">
-                <ANNOTATION_VALUE>tamle ūl'pa jīw ōŋx-əŋ wos tuwəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tamle u&#772;l'pa ji&#772;w o&#772;nx-&#601;&#331; wos tuw&#601;l</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts267" TIME_SLOT_REF2="ts271">
-                <ANNOTATION_VALUE>sāɣr-awe wōŋxa-ɣ ti-ɕir</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#611;r-awe wo&#772;&#331;xa-&#611; ti-&#597;ir</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a170" TIME_SLOT_REF1="ts275" TIME_SLOT_REF2="ts279">
-                <ANNOTATION_VALUE>tān-əl wār-awe kērtan oɕɕa kērtan</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ta&#772;n-&#601;l wa&#772;r-awe ke&#772;rtan o&#772;&#597;&#597;a ke&#772;rtan</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171" TIME_SLOT_REF1="ts283" TIME_SLOT_REF2="ts287">
-                <ANNOTATION_VALUE>ну раньше не все умели sāŋkwəltap wār-uŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1085;&#1091; &#1088;&#1072;&#1085;&#1100;&#1096;&#1077; &#1085;&#1077; &#1074;&#1089;&#1077; &#1091;&#1084;&#1077;&#1083;&#1080; sa&#772;&#331;kw&#601;ltap wa&#772;r-u&#331;kw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts295">
-                <ANNOTATION_VALUE>xotjut mōrsəŋ кто xās-i wār-uŋkw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xotjut mo&#772;rs&#601;&#331; &#1082;&#1090;&#1086; xa&#772;s-i wa&#772;r-u&#331;kw</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts299" TIME_SLOT_REF2="ts303">
-                <ANNOTATION_VALUE>pussən at=xas-s-ət mōrsəŋ кто xās-i sāŋkwəlt-aŋkw mān'ɕi sāŋkwəltap-əl </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>puss&#601;n at=xas-s-&#601;t mo&#772;rs&#601;&#331; &#1082;&#1090;&#1086; xa&#772;s-i sa&#772;&#331;kw&#601;lt-a&#331;kw ma&#772;n'&#597;i sa&#772;&#331;kw&#601;ltap-&#601;l </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts307" TIME_SLOT_REF2="ts311">
-                <ANNOTATION_VALUE>taj pēs ērɣ-əs-ət</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taj pe&#772;s e&#772;r&#611;-&#601;s-&#601;t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts315" TIME_SLOT_REF2="ts319">
-                <ANNOTATION_VALUE>paɕa xum ēriɣ os ērɣ-awe xūn' juw ti ɕalt-i sās n'ol-əl tūliɣl-axt-ēɣ-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pa&#597;a xum e&#772;ri&#611; os e&#772;r&#611;-awe xu&#772;n' juw ti &#597;alt-i sa&#772;s n'ol-&#601;l tu&#772;l&#601;&#611;l-axt-e&#772;&#611;-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts323" TIME_SLOT_REF2="ts327">
-                <ANNOTATION_VALUE>paɕa xum ērɣ-uŋkw pat-awe āwi ta=lox-i juw ta=ɕalt-ap-i sās n'ol-əl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pa&#597;a xum e&#772;r&#611;-u&#331;kw pat-awe a&#772;wi ta=lo&#772;x-i juw ta=&#597;alt-ap-i sa&#772;s n'ol-&#601;l</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts331" TIME_SLOT_REF2="ts335">
-                <ANNOTATION_VALUE>sāŋkwəlt-aŋkw pat-awe ta=jīkw-i tuwəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sa&#772;&#331;kw&#601;lt-a&#331;kw pat-awe ta=ji&#772;kw-i tuw&#601;l</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a188" TIME_SLOT_REF1="ts339" TIME_SLOT_REF2="ts343">
-                <ANNOTATION_VALUE>xum tān xum-it jīkw-ēɣ-t ēkwa tān</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>xum ta&#772;n xum-it ji&#772;kw-e&#772;&#611;-t e&#772;kwa ta&#772;n</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts347" TIME_SLOT_REF2="ts351">
-                <ANNOTATION_VALUE>ōl-i jīkw-uŋkw os</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>o&#772;l-i ji&#772;kw-u&#331;kw os</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts355" TIME_SLOT_REF2="ts359">
-                <ANNOTATION_VALUE>jomas sup mas-ēɣ-t l'il'pi sup, taml'e jomas  </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jomas sup mas-e&#772;&#611;-t l'il'pi sup, taml'e jomas  </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts363" TIME_SLOT_REF2="ts367">
-                <ANNOTATION_VALUE>jīkw-ēɣ-t tōr-əl pin-xat-ēɣ-t ēkwa-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ji&#772;kw-e&#772;&#611;-t to&#772;r-&#601;l pin-xat-e&#772;&#611;-t e&#772;kwa-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Glosses">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>старый младший.брат-DIM.POSS.1PL рука-LAT PTCL=падать-TR-NPST-3PL попасться-CAUS-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1089;&#1090;&#1072;&#1088;&#1099;&#1081; &#1084;&#1083;&#1072;&#1076;&#1096;&#1080;&#1081;.&#1073;&#1088;&#1072;&#1090;-DIM.POSS.1PL &#1088;&#1091;&#1082;&#1072;-LAT PTCL=&#1087;&#1072;&#1076;&#1072;&#1090;&#1100;-TR-NPST-3PL &#1087;&#1086;&#1087;&#1072;&#1089;&#1090;&#1100;&#1089;&#1103;-CAUS-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>когда лес-LAT PTCL=сходить-NPT-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1082;&#1086;&#1075;&#1076;&#1072; &#1083;&#1077;&#1089;-LAT PTCL=&#1089;&#1093;&#1086;&#1076;&#1080;&#1090;&#1100;-NPT-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>домой прийти-NPST-3PL ADD </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1076;&#1086;&#1084;&#1086;&#1081; &#1087;&#1088;&#1080;&#1081;&#1090;&#1080;-NPST-3PL ADD </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>снег PTCL домой бросать-NPST-3PL старый манси-PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1089;&#1085;&#1077;&#1075; PTCL &#1076;&#1086;&#1084;&#1086;&#1081; &#1073;&#1088;&#1086;&#1089;&#1072;&#1090;&#1100;-NPST-3PL &#1089;&#1090;&#1072;&#1088;&#1099;&#1081; &#1084;&#1072;&#1085;&#1089;&#1080;-PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>медведь коготь-LAT падать-TR-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; &#1082;&#1086;&#1075;&#1086;&#1090;&#1100;-LAT &#1087;&#1072;&#1076;&#1072;&#1090;&#1100;-TR-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>потом PTCL=знать-PASS[NPST.3SG] младший.брать-DIM.POSS.1PL найти-PST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1086;&#1090;&#1086;&#1084; PTCL=&#1079;&#1085;&#1072;&#1090;&#1100;-PASS[NPST.3SG] &#1084;&#1083;&#1072;&#1076;&#1096;&#1080;&#1081;.&#1073;&#1088;&#1072;&#1090;&#1100;-DIM.POSS.1PL &#1085;&#1072;&#1081;&#1090;&#1080;-PST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>потом домой нести-NPST-SG.O.3PL.S ADD</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1086;&#1090;&#1086;&#1084; &#1076;&#1086;&#1084;&#1086;&#1081; &#1085;&#1077;&#1089;&#1090;&#1080;-NPST-SG.O.3PL.S ADD</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts64">
-                <ANNOTATION_VALUE>ружьё-INS шум делать-NPST-3PL женщина четыре-раз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1088;&#1091;&#1078;&#1100;&#1105;-INS &#1096;&#1091;&#1084; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;-NPST-3PL &#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072; &#1095;&#1077;&#1090;&#1099;&#1088;&#1077;-&#1088;&#1072;&#1079;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>ружьё шум-TR-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1088;&#1091;&#1078;&#1100;&#1105; &#1096;&#1091;&#1084;-TR-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a126" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts80">
-                <ANNOTATION_VALUE>сын-PEJ ADD пять</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1089;&#1099;&#1085;-PEJ ADD &#1087;&#1103;&#1090;&#1100;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts87">
-                <ANNOTATION_VALUE>пять-раз это сын-PEJ это</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1103;&#1090;&#1100;-&#1088;&#1072;&#1079; &#1101;&#1090;&#1086; &#1089;&#1099;&#1085;-PEJ &#1101;&#1090;&#1086;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts96">
-                <ANNOTATION_VALUE>пять-раз стрелять-NPST[3SG] вверх-DIR</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1103;&#1090;&#1100;-&#1088;&#1072;&#1079; &#1089;&#1090;&#1088;&#1077;&#1083;&#1103;&#1090;&#1100;-NPST[3SG] &#1074;&#1074;&#1077;&#1088;&#1093;-DIR</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts104">
-                <ANNOTATION_VALUE>Бог-LAT привет-VBZ-REFL-NPST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1041;&#1086;&#1075;-LAT &#1087;&#1088;&#1080;&#1074;&#1077;&#1090;-VBZ-REFL-NPST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts111">
-                <ANNOTATION_VALUE>что Бог дать-PST[3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1095;&#1090;&#1086; &#1041;&#1086;&#1075; &#1076;&#1072;&#1090;&#1100;-PST[3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts120">
-                <ANNOTATION_VALUE>потом PTCL=танцевать-INF начать-NPST-3PL домой заносить-PASS[NPST.3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1086;&#1090;&#1086;&#1084; PTCL=&#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-INF &#1085;&#1072;&#1095;&#1072;&#1090;&#1100;-NPST-3PL &#1076;&#1086;&#1084;&#1086;&#1081; &#1079;&#1072;&#1085;&#1086;&#1089;&#1080;&#1090;&#1100;-PASS[NPST.3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts128">
-                <ANNOTATION_VALUE>играть.на.санквылтапе-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1080;&#1075;&#1088;&#1072;&#1090;&#1100;.&#1085;&#1072;.&#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts132" TIME_SLOT_REF2="ts136">
-                <ANNOTATION_VALUE>привет мужчина зайти-NPST[3SG] ADD</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1088;&#1080;&#1074;&#1077;&#1090; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072; &#1079;&#1072;&#1081;&#1090;&#1080;-NPST[3SG] ADD</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts144">
-                <ANNOTATION_VALUE>береста нос этот-способ маска делать-NPST-3PL или что.то</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1073;&#1077;&#1088;&#1077;&#1089;&#1090;&#1072; &#1085;&#1086;&#1089; &#1101;&#1090;&#1086;&#1090;-&#1089;&#1087;&#1086;&#1089;&#1086;&#1073; &#1084;&#1072;&#1089;&#1082;&#1072; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;-NPST-3PL &#1080;&#1083;&#1080; &#1095;&#1090;&#1086;.&#1090;&#1086;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts152">
-                <ANNOTATION_VALUE>ну делать.сценку-REFL-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1085;&#1091; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;.&#1089;&#1094;&#1077;&#1085;&#1082;&#1091;-REFL-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts156" TIME_SLOT_REF2="ts160">
-                <ANNOTATION_VALUE>3PL наружу идти-NPST-3PL потом ADD PTCL=танцевать-NPST-3PL </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>3PL &#1085;&#1072;&#1088;&#1091;&#1078;&#1091; &#1080;&#1076;&#1090;&#1080;-NPST-3PL &#1087;&#1086;&#1090;&#1086;&#1084; ADD PTCL=&#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts168">
-                <ANNOTATION_VALUE>женщина-PL или мужчина-PL танцевать-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072;-PL &#1080;&#1083;&#1080; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072;-PL &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts172" TIME_SLOT_REF2="ts176">
-                <ANNOTATION_VALUE>женщина-ABL появиться-PTCP.RES мелодия</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072;-ABL &#1087;&#1086;&#1103;&#1074;&#1080;&#1090;&#1100;&#1089;&#1103;-PTCP.RES &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts180" TIME_SLOT_REF2="ts184">
-                <ANNOTATION_VALUE>когда это играть.на.санквылтапе-PASS[NPST.3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1082;&#1086;&#1075;&#1076;&#1072; &#1101;&#1090;&#1086; &#1080;&#1075;&#1088;&#1072;&#1090;&#1100;.&#1085;&#1072;.&#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;-PASS[NPST.3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts188" TIME_SLOT_REF2="ts192">
-                <ANNOTATION_VALUE>PTCL=танцевать-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>PTCL=&#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts196" TIME_SLOT_REF2="ts200">
-                <ANNOTATION_VALUE>мужчина мелодия ADD это мужчина-PL сын-PEJ-PL танцевать-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103; ADD &#1101;&#1090;&#1086; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072;-PL &#1089;&#1099;&#1085;-PEJ-PL &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts204" TIME_SLOT_REF2="ts208">
-                <ANNOTATION_VALUE>женщина мелодия это ADD женщина-PL танцевать-NPST-3PL тот-способ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103; &#1101;&#1090;&#1086; ADD &#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072;-PL &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL &#1090;&#1086;&#1090;-&#1089;&#1087;&#1086;&#1089;&#1086;&#1073;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts212" TIME_SLOT_REF2="ts216">
-                <ANNOTATION_VALUE>общий мелодия это PTCL=играть.на.санквылтапе-INF начать-PASS[NPST.3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1086;&#1073;&#1097;&#1080;&#1081; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103; &#1101;&#1090;&#1086; PTCL=&#1080;&#1075;&#1088;&#1072;&#1090;&#1100;.&#1085;&#1072;.&#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;-INF &#1085;&#1072;&#1095;&#1072;&#1090;&#1100;-PASS[NPST.3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts220" TIME_SLOT_REF2="ts224">
-                <ANNOTATION_VALUE>это женщина-PL мужчина-PL ребёнок-PL или девочка-PL весь танцевать-NPST-3PL когда медведь праздник время-PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1101;&#1090;&#1086; &#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072;-PL &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072;-PL &#1088;&#1077;&#1073;&#1105;&#1085;&#1086;&#1082;-PL &#1080;&#1083;&#1080; &#1076;&#1077;&#1074;&#1086;&#1095;&#1082;&#1072;-PL &#1074;&#1077;&#1089;&#1100; &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL &#1082;&#1086;&#1075;&#1076;&#1072; &#1084;&#1077;&#1076;&#1074;&#1077;&#1076;&#1100; &#1087;&#1088;&#1072;&#1079;&#1076;&#1085;&#1080;&#1082; &#1074;&#1088;&#1077;&#1084;&#1103;-PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts232">
-                <ANNOTATION_VALUE>весь танцевать-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1074;&#1077;&#1089;&#1100; &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts236" TIME_SLOT_REF2="ts239">
-                <ANNOTATION_VALUE>санквылтап вниз=остановиться-NPST[3SG] потом вниз PTCL=сесть-NPST-3PL говорить-NPST-3PL смеяться-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087; &#1074;&#1085;&#1080;&#1079;=&#1086;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1080;&#1090;&#1100;&#1089;&#1103;-NPST[3SG] &#1087;&#1086;&#1090;&#1086;&#1084; &#1074;&#1085;&#1080;&#1079; PTCL=&#1089;&#1077;&#1089;&#1090;&#1100;-NPST-3PL &#1075;&#1086;&#1074;&#1086;&#1088;&#1080;&#1090;&#1100;-NPST-3PL &#1089;&#1084;&#1077;&#1103;&#1090;&#1100;&#1089;&#1103;-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts244" TIME_SLOT_REF2="ts248">
-                <ANNOTATION_VALUE>ADD что говорить-IMP.2SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ADD &#1095;&#1090;&#1086; &#1075;&#1086;&#1074;&#1086;&#1088;&#1080;&#1090;&#1100;-IMP.2SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts252" TIME_SLOT_REF2="ts256">
-                <ANNOTATION_VALUE>санквылтап дерево-ABL делать-PASS[NPST.3SG]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087; &#1076;&#1077;&#1088;&#1077;&#1074;&#1086;-ABL &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;-PASS[NPST.3SG]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts260" TIME_SLOT_REF2="ts264">
-                <ANNOTATION_VALUE>такой кедр дерево смола-PROP OPT потом</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1090;&#1072;&#1082;&#1086;&#1081; &#1082;&#1077;&#1076;&#1088; &#1076;&#1077;&#1088;&#1077;&#1074;&#1086; &#1089;&#1084;&#1086;&#1083;&#1072;-PROP OPT &#1087;&#1086;&#1090;&#1086;&#1084;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts272">
-                <ANNOTATION_VALUE>рубить-PASS[NPST.3SG] яма-TRANS этот-способ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1088;&#1091;&#1073;&#1080;&#1090;&#1100;-PASS[NPST.3SG] &#1103;&#1084;&#1072;-TRANS &#1101;&#1090;&#1086;&#1090;-&#1089;&#1087;&#1086;&#1089;&#1086;&#1073;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts276" TIME_SLOT_REF2="ts280">
-                <ANNOTATION_VALUE>струна-INS делать-PASS[NPST.3SG] проволока тонкий проволока</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1089;&#1090;&#1088;&#1091;&#1085;&#1072;-INS &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;-PASS[NPST.3SG] &#1087;&#1088;&#1086;&#1074;&#1086;&#1083;&#1086;&#1082;&#1072; &#1090;&#1086;&#1085;&#1082;&#1080;&#1081; &#1087;&#1088;&#1086;&#1074;&#1086;&#1083;&#1086;&#1082;&#1072;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a177" TIME_SLOT_REF1="ts284" TIME_SLOT_REF2="ts288">
-                <ANNOTATION_VALUE>ну раньше не все умели санквылтап делать-INF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1085;&#1091; &#1088;&#1072;&#1085;&#1100;&#1096;&#1077; &#1085;&#1077; &#1074;&#1089;&#1077; &#1091;&#1084;&#1077;&#1083;&#1080; &#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087; &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;-INF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts292" TIME_SLOT_REF2="ts296">
-                <ANNOTATION_VALUE>кто редкий кто уметь-NPST[3SG] делать-INF</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1082;&#1090;&#1086; &#1088;&#1077;&#1076;&#1082;&#1080;&#1081; &#1082;&#1090;&#1086; &#1091;&#1084;&#1077;&#1090;&#1100;-NPST[3SG] &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;-INF</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts304">
-                <ANNOTATION_VALUE>весь NEG=уметь-PST-3PL редкий кто уметь-NPST[3SG] играть.на.санквылтапе-INF мансийский санквылтап-INS</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1074;&#1077;&#1089;&#1100; NEG=&#1091;&#1084;&#1077;&#1090;&#1100;-PST-3PL &#1088;&#1077;&#1076;&#1082;&#1080;&#1081; &#1082;&#1090;&#1086; &#1091;&#1084;&#1077;&#1090;&#1100;-NPST[3SG] &#1080;&#1075;&#1088;&#1072;&#1090;&#1100;.&#1085;&#1072;.&#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;-INF &#1084;&#1072;&#1085;&#1089;&#1080;&#1081;&#1089;&#1082;&#1080;&#1081; &#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;-INS</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts308" TIME_SLOT_REF2="ts312">
-                <ANNOTATION_VALUE>это старый петь-PST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1101;&#1090;&#1086; &#1089;&#1090;&#1072;&#1088;&#1099;&#1081; &#1087;&#1077;&#1090;&#1100;-PST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts316" TIME_SLOT_REF2="ts320">
-                <ANNOTATION_VALUE>привет мужчина песня ADD петь-PASS[NPST.3SG] когда домой этот заходить-NPST[3SG] береста нос-INS делать.представление-REFL-NPST-3PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1088;&#1080;&#1074;&#1077;&#1090; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072; &#1087;&#1077;&#1089;&#1085;&#1103; ADD &#1087;&#1077;&#1090;&#1100;-PASS[NPST.3SG] &#1082;&#1086;&#1075;&#1076;&#1072; &#1076;&#1086;&#1084;&#1086;&#1081; &#1101;&#1090;&#1086;&#1090; &#1079;&#1072;&#1093;&#1086;&#1076;&#1080;&#1090;&#1100;-NPST[3SG] &#1073;&#1077;&#1088;&#1077;&#1089;&#1090;&#1072; &#1085;&#1086;&#1089;-INS &#1076;&#1077;&#1083;&#1072;&#1090;&#1100;.&#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077;-REFL-NPST-3PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a186" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts328">
-                <ANNOTATION_VALUE>привет мужчина петь-INF начать-PASS[NPST.3SG] дверь PTCL=стучать-NPST[3SG] домой PTCL=зайти-MOM-NPST[3SG] береста нос-INS</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1087;&#1088;&#1080;&#1074;&#1077;&#1090; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072; &#1087;&#1077;&#1090;&#1100;-INF &#1085;&#1072;&#1095;&#1072;&#1090;&#1100;-PASS[NPST.3SG] &#1076;&#1074;&#1077;&#1088;&#1100; PTCL=&#1089;&#1090;&#1091;&#1095;&#1072;&#1090;&#1100;-NPST[3SG] &#1076;&#1086;&#1084;&#1086;&#1081; PTCL=&#1079;&#1072;&#1081;&#1090;&#1080;-MOM-NPST[3SG] &#1073;&#1077;&#1088;&#1077;&#1089;&#1090;&#1072; &#1085;&#1086;&#1089;-INS</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a192" TIME_SLOT_REF1="ts332" TIME_SLOT_REF2="ts336">
-                <ANNOTATION_VALUE>играть.на.санквылтапе-INF начать-PASS[NPST.3SG] PTCL=танцевать-NPST[3SG] потом</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1080;&#1075;&#1088;&#1072;&#1090;&#1100;.&#1085;&#1072;.&#1089;&#1072;&#1085;&#1082;&#1074;&#1099;&#1083;&#1090;&#1072;&#1087;&#1077;-INF &#1085;&#1072;&#1095;&#1072;&#1090;&#1100;-PASS[NPST.3SG] PTCL=&#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST[3SG] &#1087;&#1086;&#1090;&#1086;&#1084;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts340" TIME_SLOT_REF2="ts344">
-                <ANNOTATION_VALUE>мужчина мелодия мужчина-PL танцевать-NPST-3PL женщина мелодия</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103; &#1084;&#1091;&#1078;&#1095;&#1080;&#1085;&#1072;-PL &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL &#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072; &#1084;&#1077;&#1083;&#1086;&#1076;&#1080;&#1103;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a194" TIME_SLOT_REF1="ts348" TIME_SLOT_REF2="ts352">
-                <ANNOTATION_VALUE>быть-NPST[3SG] танцевать-INF ADD</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1073;&#1099;&#1090;&#1100;-NPST[3SG] &#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-INF ADD</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts356" TIME_SLOT_REF2="ts360">
-                <ANNOTATION_VALUE>хороший платье надеть-NPST-3PL новый платье такой хороший</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1093;&#1086;&#1088;&#1086;&#1096;&#1080;&#1081; &#1087;&#1083;&#1072;&#1090;&#1100;&#1077; &#1085;&#1072;&#1076;&#1077;&#1090;&#1100;-NPST-3PL &#1085;&#1086;&#1074;&#1099;&#1081; &#1087;&#1083;&#1072;&#1090;&#1100;&#1077; &#1090;&#1072;&#1082;&#1086;&#1081; &#1093;&#1086;&#1088;&#1086;&#1096;&#1080;&#1081;</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a196" TIME_SLOT_REF1="ts364" TIME_SLOT_REF2="ts368">
-                <ANNOTATION_VALUE>танцевать-NPST-3PL платок-INS положить-REFL-NPST-3PL женщина-PL</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>&#1090;&#1072;&#1085;&#1094;&#1077;&#1074;&#1072;&#1090;&#1100;-NPST-3PL &#1087;&#1083;&#1072;&#1090;&#1086;&#1082;-INS &#1087;&#1086;&#1083;&#1086;&#1078;&#1080;&#1090;&#1100;-REFL-NPST-3PL &#1078;&#1077;&#1085;&#1097;&#1080;&#1085;&#1072;-PL</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
