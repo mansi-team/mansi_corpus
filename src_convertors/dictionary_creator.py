@@ -99,7 +99,9 @@ def create_dictionary(folder):
 
 
 def correct_morphemes_glosses_in_file(filename, morphemes_replace, glosses_replace):
-    srcTree = ET.parse(filename).getroot()
+    has_changes = False
+    tree_parsed = ET.parse(filename)
+    srcTree = tree_parsed.getroot()
     morpheme_tier_element = srcTree.find('./TIER[@TIER_ID="' +
                                          MORPHEME_TIER_NAME + '"]')
     gloss_tier_element = srcTree.find('./TIER[@TIER_ID="' +
@@ -108,18 +110,30 @@ def correct_morphemes_glosses_in_file(filename, morphemes_replace, glosses_repla
     glosses_words = gloss_tier_element.findall('./ANNOTATION/ALIGNABLE_ANNOTATION/ANNOTATION_VALUE')
     for i, morpheme_annotation in enumerate(morphemes_words):
         gloss_annotation = glosses_words[i]
-        correct_morphemes_glosses_for_word(filename, morpheme_annotation.text, gloss_annotation.text, morphemes_replace, glosses_replace)
+        morphemes_corrected, glosses_corrected = \
+            correct_morphemes_glosses_for_word(filename, morpheme_annotation.text.strip(), gloss_annotation.text.strip(),
+                                               morphemes_replace, glosses_replace)
+        if morpheme_annotation.text.strip() != morphemes_corrected:
+            morpheme_annotation.text = morphemes_corrected
+            has_changes = True
+        if gloss_annotation.text.strip() != glosses_corrected:
+            print('=====', gloss_annotation.text, glosses_corrected)
+
+            gloss_annotation.text = glosses_corrected
+            has_changes = True
+    if has_changes:
+        tree_parsed.write(filename, encoding='utf-8', xml_declaration=True)
+
 
 def correct_morphemes_glosses_for_word(filename, morpheme_annotation, gloss_annotation, morphemes_replace, glosses_replace):
-    morphemes = morpheme_annotation.strip().split(' ')
-    glosses = gloss_annotation.strip().split(' ')
+    morphemes = morpheme_annotation.split(' ')
+    glosses = gloss_annotation.split(' ')
 
-
+    morphemes_corrected = ''
+    glosses_corrected = ''
 
     for i, morphemes_text in enumerate(morphemes):
         glosses_text = glosses[i]
-        if 'ругаться-NPST' in glosses_text:
-            TODO = 9
         word_parts = re.split('[-]', morphemes_text.strip('='))
         gloss_parts = re.split('[-]', glosses_text.strip('='))
         word_corrected = ''
@@ -127,7 +141,7 @@ def correct_morphemes_glosses_for_word(filename, morpheme_annotation, gloss_anno
 
         if len(word_parts) != len(gloss_parts):
             print("!!!!!:" + filename + ":" + morphemes_text + ":" + glosses_text)
-            return
+            return morpheme_annotation, gloss_annotation
         for i, word_part in enumerate(word_parts):
             morpheme_to_replace = None
             gloss_to_replace = None
@@ -198,6 +212,9 @@ def correct_morphemes_glosses_for_word(filename, morpheme_annotation, gloss_anno
             print('morphemes', morphemes_text, '---->', word_corrected)
         if gloss_corrected != glosses_text:
             print('glosses', glosses_text, '---->', gloss_corrected)
+        morphemes_corrected += ' ' + word_corrected
+        glosses_corrected += ' ' + gloss_corrected
+    return morphemes_corrected.strip(), glosses_corrected.strip()
 
 
 

@@ -43,7 +43,8 @@ PYMORPHY_POS_CORRESPONDENCE = {'NOUN' : [POS_NOUN],
                                 'INTJ' : [POS_INTJ],
                                'LATN' : [POS_UNKNOWN],
                                'PNCT' : [POS_UNKNOWN],
-                               'UNKN' : [POS_UNKNOWN]
+                               'UNKN' : [POS_UNKNOWN],
+                               'NUMB' : [POS_NUMBER]
                                }
 morph = pymorphy2.MorphAnalyzer()
 
@@ -83,9 +84,15 @@ def get_gloss_set_from_string(gloss_list):
     return gloss_set
 
 def add_pos_to_file(filename, filename_out, gloss_tier_name):
+    if 'AAA_DZh_SP_120717_biography.eaf' in filename:
+        a = 9
     tree = ET.parse(filename)
     root = tree.getroot()
     gloss_tier = root.findall('./TIER[@TIER_ID="' + gloss_tier_name +'"]')[0]
+    pos_tiers = root.findall('./TIER[@TIER_ID="Pos"]')
+    if pos_tiers:
+        #если уже есть, не перетираем
+        return
     pos_tier = ET.SubElement(root, 'TIER', DEFAULT_LOCALE='ru',
                                         LINGUISTIC_TYPE_REF=gloss_tier.attrib['LINGUISTIC_TYPE_REF'],
                                         TIER_ID='Pos')

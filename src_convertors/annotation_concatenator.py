@@ -222,7 +222,9 @@ def convert_plain_file(filename, new_filename, word_tier_name,
 
         if len(glosses_parts) != len(words):
             print(filename, glosses, words)
-            raise Exception("len(glosses) != len(words)")
+            #TODO
+            ## raise Exception("len(glosses) != len(words)")
+
 
         new_russian_element_annotation = \
             etree.SubElement(new_russian_tier_element, 'ANNOTATION',
@@ -287,7 +289,8 @@ def convert_plain_file(filename, new_filename, word_tier_name,
 
             new_gloss_element_ref_annotation_value = etree.SubElement(new_gloss_element_ref_annotation,
                                                                          'ANNOTATION_VALUE')
-            new_gloss_element_ref_annotation_value.text = glosses_parts[word_index]
+            if word_index < len(glosses_parts):
+                new_gloss_element_ref_annotation_value.text = glosses_parts[word_index]
 
 
     srcTree.write(new_filename, encoding='utf-8')
@@ -406,13 +409,12 @@ create_child_gloss_tier_from_annotation_concatenation("D://ForElan//ForSIL_CORPU
                                           "fonConcat", "fon", "gl", "glConcat");"""
 
 
-folder = "C:\Users\Daria\Documents\GitHub\mansi_corpus\corpus\mansi\preprocessing"
-folder_out = "C:\Users\Daria\Documents\GitHub\mansi_corpus\corpus\mansi\eaf"
+folder = "D://Mansi/Corpus/corpus/mansi/preprocessing/"
+folder_out = "D://Mansi/Corpus/corpus/mansi/eaf/"
+
 for filename in os.listdir(folder):
     if filename.endswith(".eaf"):
         print(filename)
-        if filename == 'PSP_SP_240717_bread.eaf':
-            print('aaaa')
         try:
             convert_plain_file(os.path.join(folder, filename),
                       os.path.join(folder_out, filename),
@@ -420,4 +422,9 @@ for filename in os.listdir(folder):
         except Exception as e:
             print(filename + ":" + str(e))
             traceback.print_exc(file=sys.stdout)
+
+"""
+convert_plain_file("D://Mansi/Corpus/corpus/mansi/preprocessing/ASN_SP_050818_potyr.eaf",
+                   "D://Mansi/Corpus/corpus/mansi/eaf/ASN_SP_050818_potyr.eaf",
+                     "fonWord", "Morphemes", "Glosses", "Morphemes")"""
 
