@@ -181,14 +181,15 @@ def correct_morphemes_glosses_for_word(filename, morpheme_annotation, gloss_anno
             else:
                 if morphemes_replace:
                     morpheme_to_replace = morphemes_replace.get((word_part, gloss_part))
-                    if morpheme_to_replace:
-                        word_part_corrected += '-' + morpheme_to_replace
-                        gloss_part_corrected += '-' + gloss_part
-                    else:
-                        word_part_corrected += '-' + word_part
-                        gloss_part_corrected += '-' + gloss_part
+                if glosses_replace:
+                    gloss_to_replace = glosses_replace.get((word_part, gloss_part))
+                if morpheme_to_replace:
+                    word_part_corrected += '-' + morpheme_to_replace
                 else:
                     word_part_corrected += '-' + word_part
+                if gloss_to_replace:
+                    gloss_part_corrected += '-' + gloss_to_replace
+                else:
                     gloss_part_corrected += '-' + gloss_part
 
             word_corrected += '-' + word_part_corrected
