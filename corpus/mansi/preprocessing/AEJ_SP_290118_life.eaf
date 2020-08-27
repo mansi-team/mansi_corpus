@@ -1,6 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
 <ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-02-19T14:31:13+03:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/&#1075;&#1083;&#1086;&#1089;&#1089;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1077; &#1042;&#1051;/&#1101;&#1083;&#1072;&#1085;&#1099;/&#1074;&#1099;&#1074;&#1077;&#1088;&#1082;&#1072; 30/AEJ_SP_290118_life.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./AEJ_SP_290118_life.wav" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/AEJ_SP_290118_life.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./AEJ_SP_290118_life.wav" />
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5b0cebed-cce0-4f6a-adda-15efa82827dc</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">8</PROPERTY>
     </HEADER>
@@ -25,48 +26,48 @@
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Mansi">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>am o&#772;we&#772;jum ke&#772;s-kom-pa&#772;w&#601;lt tit janijmasum an' wo&#772;raje&#772;jm xo&#772;t at'i</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am ōwējum kēs-kom-pāwəlt tit janijmasum an' wōrajējm xōt at'i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>tuw mo&#597; owe&#772;jum xani&#597;taxtak mine&#772;jum </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuw moɕ owējum xaniɕtaxtak minējum </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Russian">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>&#1103; &#1078;&#1080;&#1074;&#1091; &#1085;&#1072; &#1058;&#1088;&#1077;&#1089;&#1082;&#1086;&#1083;&#1100;&#1077; &#1079;&#1076;&#1077;&#1089;&#1100; &#1074;&#1099;&#1088;&#1086;&#1089; &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1086;&#1093;&#1086;&#1095;&#1091;&#1089;&#1100; &#1087;&#1086;&#1074;&#1089;&#1102;&#1076;&#1091;</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я живу на Тресколье здесь вырос сейчас охочусь повсюду</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>&#1087;&#1086;&#1089;&#1083;&#1077; &#1087;&#1086;&#1073;&#1091;&#1076;&#1091; (&#1076;&#1086;&#1084;&#1072;) &#1080; &#1091;&#1095;&#1080;&#1090;&#1100;&#1089;&#1103; &#1087;&#1086;&#1077;&#1076;&#1091;</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>после побуду (дома) и учиться поеду</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Morphemes">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>am o&#772;l-e&#772;&#611;-um ke&#772;ras kol-&#601;&#331; ja&#772; pa&#772;w&#601;l-t tit jani&#611;-m-as-um an' wo&#772;raj-e&#772;&#611;-um xo&#772;t a'ti</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>am ōl-ēɣ-um kēras kol-əŋ jā pāwəl-t tit janiɣ-m-as-um an' wōraj-ēɣ-um xōt āt'i</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>tuw&#601;l mo&#597; ol-e&#772;&#611;-um xani&#597;t-axt-u&#331;kw min-e&#772;&#611;-um </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tuwəl moɕ ōl-ēɣ-um xaniɕt-axt-uŋkw min-ēɣ-um</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Glosses">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>1SG &#1073;&#1099;&#1090;&#1100;-NPST-1SG &#1089;&#1082;&#1072;&#1083;&#1072; &#1076;&#1086;&#1084;-PROP1 &#1088;&#1077;&#1082;&#1072; &#1076;&#1077;&#1088;&#1077;&#1074;&#1085;&#1103;-LOC &#1090;&#1091;&#1090; &#1073;&#1086;&#1083;&#1100;&#1096;&#1086;&#1081;-VBZ-PST-1SG &#1089;&#1077;&#1081;&#1095;&#1072;&#1089; &#1086;&#1093;&#1086;&#1090;&#1080;&#1090;&#1100;&#1089;&#1103;-NPST-1SG &#1075;&#1076;&#1077; NEG.PRED</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>1SG быть-NPST-1SG скала дом-PROP1 река деревня-LOC тут большой-VBZ-PST-1SG сейчас охотиться-NPST-1SG где NEG.PRED</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>&#1087;&#1086;&#1090;&#1086;&#1084; &#1085;&#1077;&#1084;&#1085;&#1086;&#1075;&#1086; &#1073;&#1099;&#1090;&#1100;-NPST-1SG &#1091;&#1095;&#1080;&#1090;&#1100;-REFL-INF &#1087;&#1086;&#1081;&#1090;&#1080;-NPST-1SG</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потом немного быть-NPST-1SG учить-REFL-INF пойти-NPST-1SG</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
