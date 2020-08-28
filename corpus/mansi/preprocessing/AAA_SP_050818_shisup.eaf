@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-06-20T02:47:52+03:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2020-08-28T22:49:01+04:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/AAA_SP_050818_shisup.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../Desktop/глоссирование ВЛ/эланы/выверка 30/AAA_SP_050818_shisup.wav" />
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/vasily/Desktop/глоссирование ВЛ/эланы/выверка 30/AAA_SP_050818_shisup.wav" MIME_TYPE="audio/x-wav" />
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:70d5da92-f382-4fbd-b061-acd8af985b9c</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">144</PROPERTY>
     </HEADER>
@@ -839,7 +839,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts218">
-                <ANNOTATION_VALUE>saka xosat tāɣәl tōrum sōs-xat-as moɕ-nuw ēlmxōlas-t ariɣt-as-t</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>saka xosa-t tāɣәl tōrum sōs-xat-as moɕ-nuw ēlmxōlas-t ariɣt-as-t</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -894,7 +894,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts324" TIME_SLOT_REF2="ts329">
-                <ANNOTATION_VALUE>sāt nāŋk jīw por-ŋ ut-ət karaj sow-əl lap=pant-xat-s-ət sāt nāŋk xot nāŋk </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sāt nāŋk jīw por-ŋ ut-ət karaj sow-əl lap=pant-xat-s-ət sāt nāŋk xōt nāŋk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1046,7 +1046,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts263" TIME_SLOT_REF2="ts268">
-                <ANNOTATION_VALUE>карай шкура-INS закрыть=закрыть-REFL-PST-3PL это</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>карай шкура-INS за=закрыть-REFL-PST-3PL это</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1076,7 +1076,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts323" TIME_SLOT_REF2="ts328">
-                <ANNOTATION_VALUE>семь лиственница дерево плот-PROP вещь-PL карыш шкура-INS за-закрыть-REFL-PST-3PL семь лиственница шесть лиственница</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>семь лиственница дерево плот-PROP вещь-PL карай шкура-INS за=закрыть-REFL-PST-3PL семь лиственница шесть лиственница</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
