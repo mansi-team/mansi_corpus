@@ -25,3 +25,14 @@ jobs:
           method: 'POST'
           username: ${{ secrets.CORPUS_USER }}
           password: ${{ secrets.CORPUS_PASSWORD }}
+      - uses: dawidd6/action-send-mail@v2
+        id: send_mail
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{secrets.MAIL_USERNAME}}
+          password: ${{secrets.MAIL_PASSWORD}}
+          subject: Corpus reindexation result
+          # Literal body:
+          body: Build job of ${{github.repository}} completed successfully!
+          to: elenaklyachko@gmail.com
