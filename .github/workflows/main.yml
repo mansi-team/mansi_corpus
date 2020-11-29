@@ -34,7 +34,7 @@ jobs:
           password: ${{secrets.MAIL_PASSWORD}}
           subject: Build job of ${{github.repository}} completed successfully!
           # Literal body:
-          body: ${{steps.reindexator.outputs.response.strip('"')}}
+          body: ${{steps.reindexator.outputs.response}}
           to: ${{secrets.EMAIL_LIST}}
           from: Mansi corpus
           content_type: text/html
