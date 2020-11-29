@@ -36,3 +36,4 @@ jobs:
           # Literal body:
           body: Build job of ${{github.repository}} completed successfully!
           to: ${{secrets.EMAIL_LIST}}
+          from: mansi_corpus
