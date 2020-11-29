@@ -35,4 +35,4 @@ jobs:
           subject: Corpus reindexation result
           # Literal body:
           body: Build job of ${{github.repository}} completed successfully!
-          to: elenaklyachko@gmail.com
+          to: ${{secrets.EMAIL_LIST}}
