@@ -37,3 +37,4 @@ jobs:
           body: Build job of ${{github.repository}} completed successfully! ${{steps.reindexator.outputs.response}}
           to: ${{secrets.EMAIL_LIST}}
           from: Mansi corpus
+          content_type: text/html
