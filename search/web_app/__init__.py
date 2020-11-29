@@ -14,6 +14,7 @@ import time
 from search_engine.client import SearchClient
 from .response_processors import SentenceViewer
 from .transliteration import *
+from src_convertors import annotation_concatenator
 
 
 SETTINGS_DIR = '../conf'
@@ -1772,3 +1773,11 @@ def get_dictionary(lang):
         return render_template(dictFilename)
     except:
         return ''
+
+
+@app.route('/annotation_concatenator')
+def concatenate_annotations():
+    try:
+        return str(annotation_concatenator.concatenate_annotations())
+    except Exception as e:
+        print(str(e))
