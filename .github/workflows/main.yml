@@ -48,6 +48,7 @@ jobs:
           method: 'POST'
           username: ${{ secrets.CORPUS_USER }}
           password: ${{ secrets.CORPUS_PASSWORD }}
+          timeout: 1200000
       - uses: dawidd6/action-send-mail@v2
         id: send_mail
         with:
@@ -61,4 +62,3 @@ jobs:
           to: ${{secrets.EMAIL_LIST}}
           from: Mansi corpus
           content_type: text/html
-          timeout: 1200000
