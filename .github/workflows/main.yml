@@ -15,13 +15,36 @@ on:
 
 
 jobs:
+  refresher:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: fjogeleit/http-request-action@master
+        id: reindexator
+        with:
+          url:   ${{ secrets.CORPUS_URL + 'pull_changes'}} 
+          method: 'POST'
+          username: ${{ secrets.CORPUS_USER }}
+          password: ${{ secrets.CORPUS_PASSWORD }}
+      - uses: dawidd6/action-send-mail@v2
+        id: send_mail
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{secrets.MAIL_USERNAME}}
+          password: ${{secrets.MAIL_PASSWORD}}
+          subject: Refresh of ${{github.repository}} completed successfully!
+          # Literal body:
+          body: ${{steps.reindexator.outputs.response}}
+          to: ${{secrets.EMAIL_LIST}}
+          from: Mansi corpus
+          content_type: text/html
   reindexator:
     runs-on: ubuntu-latest
     steps:
       - uses: fjogeleit/http-request-action@master
         id: reindexator
         with:
-          url:   ${{ secrets.CORPUS_URL }}
+          url:   ${{ secrets.CORPUS_URL + 'reindex' }}
           method: 'POST'
           username: ${{ secrets.CORPUS_USER }}
           password: ${{ secrets.CORPUS_PASSWORD }}
