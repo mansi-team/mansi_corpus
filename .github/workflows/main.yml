@@ -61,4 +61,4 @@ jobs:
           to: ${{secrets.EMAIL_LIST}}
           from: Mansi corpus
           content_type: text/html
-          timeout:  120000:  
+          timeout: 120000
