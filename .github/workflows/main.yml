@@ -38,7 +38,6 @@ jobs:
           to: ${{secrets.EMAIL_LIST}}
           from: Mansi corpus
           content_type: text/html
-          timeout:  120000
   reindexator:
     runs-on: ubuntu-latest
     steps:
@@ -62,3 +61,4 @@ jobs:
           to: ${{secrets.EMAIL_LIST}}
           from: Mansi corpus
           content_type: text/html
+          timeout:  120000:  
